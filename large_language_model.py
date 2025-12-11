@@ -4,7 +4,7 @@ from langchain.messages import AIMessage
 import json
 import ast
 
-from timer import timer
+from timer import sync_timer
 
 
 class LargeLanguageModel():
@@ -21,7 +21,7 @@ class LargeLanguageModel():
             max_retries=0)
 
 
-    @timer
+    @sync_timer
     def get_answer_from_query(self, query: str, context: str) -> str:
         prompt = _build_answering_prompt(query=query, context=context)
         raw_answer = self.language_model.invoke(prompt)

@@ -2,10 +2,10 @@ from sentence_transformers import CrossEncoder
 from langchain_core.documents import Document
 from typing import Tuple
 
-from timer import timer
+from timer import sync_timer
 
 
-@timer
+@sync_timer
 def rerank_chunks(
         cross_encoder: CrossEncoder,
         query: str,

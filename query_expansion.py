@@ -3,7 +3,7 @@ import re
 from langchain_community.llms import LlamaCpp
 from langchain_core.documents import Document
 
-from timer import timer
+from timer import sync_timer
 from log_query_expansion import log_query_expansion
 
 
@@ -29,7 +29,7 @@ class QueryExpansion():
             verbose=False)
 
 
-    @timer
+    @sync_timer
     def expand_query(self, query: str, chunks: list[Document]) -> str:
 
         context = "\n\n".join([chunk.page_content for chunk in chunks])
