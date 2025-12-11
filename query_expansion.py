@@ -43,13 +43,14 @@ class QueryExpansion():
 
         alternative_queries = _format_llm_output(raw_output=alternative_queries_raw)
 
-        log_query_expansion(
+        log_message = log_query_expansion(
             query=query,
             chunks=chunks,
             alternative_queries=alternative_queries,
-            alternative_queries_raw=alternative_queries_raw)
+            alternative_queries_raw=alternative_queries_raw,
+            prompt=prompt)
 
-        return alternative_queries
+        return alternative_queries, log_message
 
 
 def _build_expansion_prompt(query: str, context: str, nb_variants: int) -> str:

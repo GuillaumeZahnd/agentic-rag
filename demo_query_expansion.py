@@ -1,4 +1,5 @@
 import os
+from langchain_core.documents import Document
 
 from query_expansion import QueryExpansion
 
@@ -6,21 +7,19 @@ from query_expansion import QueryExpansion
 if __name__ == "__main__":
 
     user_query = "what is a permanent?"
-    nb_variants = 5
+    nb_variants = 3
+    temperature = 0.1
 
     with open(os.path.join("data", "mtg.txt"), "r") as fid:
         context = fid.read()
 
-    query_expansion = QueryExpansion(nb_variants=nb_variants)
+    document = Document(page_content=context)
 
-    alternative_queries_raw = query_expansion.expand_query(
-        user_query=user_query,
-        context=context)
+    chunks = []
+    chunks.append(document)
 
-    alternative_queries = query_expansion.format_llm_output(raw_output=alternative_queries_raw)
+    query_expansion = QueryExpansion(nb_variants=nb_variants, temperature=temperature)
 
-    print("\nUser query:")
-    print(user_query)
-    print("\nAlternative queries:")
-    for q in range(len(alternative_queries)):
-        print("[{}] {}".format(q, alternative_queries[q]))
+    _, log_message = query_expansion.expand_query(query=user_query, chunks=chunks)
+
+    print(log_message)

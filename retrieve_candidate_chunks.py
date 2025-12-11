@@ -1,13 +1,12 @@
 from langchain_core.documents import Document
 from langchain_core.vectorstores import VectorStore
-from typing import List
 
 from timer import timer
 
 
 @timer
 def retrieve_candidate_chunks(
-        user_query: str, vector_store: VectorStore, top_k_chunks: int) -> List[Document]:
+        user_query: str, vector_store: VectorStore, top_k_chunks: int) -> list[Document]:
     """
     Compute the similarity between the user query and each chunks, based on vector distance, using a bi-encoder.
     This operation has a higher recall than the cross-encoder and is also faster, but has a lower precision.
