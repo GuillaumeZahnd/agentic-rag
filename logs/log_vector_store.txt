@@ -1,0 +1,1484 @@
+# Number of chunks :
+
+463
+----------------------------------------------------------------
+# Number of new chunks that were added:
+
+0
+----------------------------------------------------------------
+# Chunk size :
+
+500
+----------------------------------------------------------------
+# Chunk overlap :
+
+100
+----------------------------------------------------------------
+# Chunks:
+
+[0] page_content='WORKING CLASS The Working Class has Workers who work in exchange for money which they use to cover their basic needs: food, health, education and, if possible, entertainment. This player’s goal is to cover these needs to the best extent possible, increasing their Workers’ prosperity.
+The nation is in disarray.' metadata={'start_index': 0}
+
+
+[1] page_content='The nation is in disarray.
+The economy is failing and political tensions are rising. The working class faces a dismantled welfare system, the capitalists are losing their profits, the middle class is gradually fading, and the state is sinking into a deep deficit.
+In these troubling times, the only person who can provide guidance is... you!
+Will you take the side of the workers and fight for social reforms, or will you stand with the corporations and the free market?' metadata={'start_index': 285}
+
+
+[2] page_content='Will you help the state try to keep it all together, or will you try to enforce your agenda no matter the cost to the country?' metadata={'start_index': 756}
+
+
+[3] page_content='Hegemony is an asymmetric, card-driven board game in which players take the role of a specific group: the Working Class, the Middle Class, the Capitalist Class, or the State itself. Each player plays differently and tries to pursue their own agenda: CAPITALIST CLASS The Capitalist Class runs Companies. Workers come to work in these Companies and produce goods and services which the Capitalist Class then sells for profit. This player’s goal is to maximize their profit.' metadata={'start_index': 883}
+
+
+[4] page_content='MIDDLE CLASS The Middle Class also has Workers who work in various Companies gaining income but is also able to run its own smaller Companies. This player needs to find the perfect balance between producing, selling and consuming in order to cover their Workers’ needs and increase their prosperity.
+STATE Finally, the State is trying to increase its legitimacy, working hard to keep all the Classes satisfied and in balance. At the same time, it tries to deal with any societal issues that arise.' metadata={'start_index': 1356}
+
+
+[5] page_content='RULEBOOK HEGEMONY: COMPONENTS 2 COMPONENTS 5 PLAYER AIDS 270 REGULAR CARDS ACTION CARDS 40 WORKING CLASS ACTION CARDS 40 CAPITALIST CLASS ACTION CARDS 40 STATE ACTION CARDS 40 MIDDLE CLASS ACTION CARDS 2 COOPERATIVE FARMS COMPANIES 28 CAPITALIST CLASS COMPANIES 12 PUBLIC COMPANIES 17 MIDDLE CLASS COMPANIES 16 EXPORT CARDS 10 POLITICAL AGENDAS 25 EVENT CARDS 1 GAME BOARD 4 RULE AIDS 4 PLAYER BOARDS HEGEMONY: SYMBOLS 3 1 CLOTH BAG 20 BUSINESS DEAL CARDS 10 LOANS 25 IMMIGRATION CARDS 55 SMALL' metadata={'start_index': 1854}
+
+
+[6] page_content='HEGEMONY: SYMBOLS 3 1 CLOTH BAG 20 BUSINESS DEAL CARDS 10 LOANS 25 IMMIGRATION CARDS 55 SMALL CARDS 222 TOKENS 231 WOODEN COMPONENTS 6 MACHINERY TOKENS 7 STRIKE TOKENS 18 LEGITIMACY TOKENS 2 WELFARE TILES 82 VARDIS ( ) COIN TOKENS 1 DEMONSTRATION TOKEN 1 FREE TRADE ZONE TILE 6 STORAGE TILES 35 INFLUENCE CUBES 75 VOTING CUBES IN 3 COLORS 2 PROSPERITY MARKERS 1 WEALTH MARKER 3 LEGITIMACY MARKERS 1 ROUND MARKER 1 TAX MULTIPLIER MARKER 42 TRANSPARENT MARKERS 7 POLICY MARKERS 4 SCORING MARKERS IN 4' metadata={'start_index': 2255}
+
+
+[7] page_content='ROUND MARKER 1 TAX MULTIPLIER MARKER 42 TRANSPARENT MARKERS 7 POLICY MARKERS 4 SCORING MARKERS IN 4 COLORS 12 BILL MARKERS IN 4 COLORS 48 WORKING CLASS WORKERS 42 MIDDLE CLASS WORKERS SYMBOLS TYPES OF WORKERS OTHER PLAYER ROLES LEGITIMACY LEGITIMACY WORKING / MIDDLE / CAPITALIST CLASS RESOURCES FOOD LUXURY HEALTH EDUCATION INFLUENCE PROSPERITY WORKING / MIDDLE CLASS / COMPANY PUBLIC / CAPITALIST CLASS / MIDDLE CLASS / / POPULATION WORKING / MIDDLE CLASS / WORKING CLASS MIDDLE CLASS CAPITALIST' metadata={'start_index': 2654}
+
+
+[8] page_content='CLASS / MIDDLE CLASS / / POPULATION WORKING / MIDDLE CLASS / WORKING CLASS MIDDLE CLASS CAPITALIST CLASS THE STATE TAX MULTIPLIER MINIMUM ALLOWABLE WAGE VICTORY POINT LEGITIMACY POINT LEGITIMACY TOKEN MACHINERY TOKEN 24 FOOD TOKENS MIDDLE CLASS WORKER UNSKILLED / SKILLED / ANY SKILLED / / WORKING CLASS WORKER UNSKILLED / SKILLED / ANY SKILLED / / ANY CLASS WORKER UNSKILLED / SKILLED / ANY SKILLED / / 26 LUXURY TOKENS x12 x9 x5 26 EDUCATION TOKENS x12 x9 x5 26 HEALTH TOKENS 4 VOTE TOKENS x12 x9' metadata={'start_index': 3053}
+
+
+[9] page_content='/ / 26 LUXURY TOKENS x12 x9 x5 26 EDUCATION TOKENS x12 x9 x5 26 HEALTH TOKENS 4 VOTE TOKENS x12 x9 x5 x10 x9 x5 HEGEMONY: COMPONENT ANATOMY 4 Company Cards These cards represent Companies that the players build in order to produce goods and services' metadata={'start_index': 3453}
+
+
+[10] page_content='. Each one lists the amount and type of Workers it requires to be operational, the resources it produces, and (when appropriate) the Wage that those Workers are paid.' metadata={'start_index': 3702}
+
+
+[11] page_content='The color of the Company indicates the Industry in which it belongs. There are 5 Industries in total in the game: Agriculture (green), Luxury (blue), Healthcare (red), Education (orange) and Media (purple).' metadata={'start_index': 3869}
+
+
+[12] page_content='COMPONENT ANATOMY Illustration Card title Card effect Role Indicator Legitimacy Change (Ignore if playing with less than 4 players) Card Requirement Action Cards These cards allow you to perform actions on your turns. You may either play them for their effect or discard them to perform Basic Actions.
+Middle Class Companies Come in 2 types: The ones run solely by Middle Class Workers and the ones with Working Class employees.' metadata={'start_index': 4076}
+
+
+[13] page_content='Middle Class Worker Type Working Class Worker (Employee) Type Employee Production Bonus Employee Wage Indicator Middle Class Companies A Cooperative Farm is a special type of Company that only the Working Class can build, through some of its action cards. it requires 3 unskilled Workers to operate and produces 2 Food. It is considered to be a Private Company but is not placed on the board.' metadata={'start_index': 4505}
+
+
+[14] page_content='Automated Companies have a large Machinery symbol printed on them and no Worker slots. They are considered to always be operational, do not require Workers, and are treated as having a Machinery token on them. In the Production Phase they produce without any Wage paid. Note that regular Companies with a Machinery token on them, are NOT considered automated.' metadata={'start_index': 4898}
+
+
+[15] page_content='Other Types of Companies Company Name Industry (Indicated by color) Machinery Production Bonus (Machinery tokens can be placed on Companies to boost their production) Company Cost : Indicates Starting Company : Indicates Starting Company used in 2 player games only : Indicates Starting Company used in 3 & 4 player games only Level 3 Wage Level 2 Wage Level 1 Wage Goods / Services Produced Required Workers (Color indicates skilled Worker in the corresponding industry) Capitalist Class / Public' metadata={'start_index': 5258}
+
+
+[16] page_content='Workers (Color indicates skilled Worker in the corresponding industry) Capitalist Class / Public Companies Event Cards These cards (used in 4-player games only) show various issues that the State will have to deal with' metadata={'start_index': 5659}
+
+
+[17] page_content='. HEGEMONY: COMPONENT ANATOMY 5 Penalty Event Title Event Task Possible Choices Reward depending on the choice made Export Cards These cards show 8 possible transactions that players can make when selling goods and services to the Foreign Market. A New Export card is revealed at the beginning of each round during the Preparation Phase.' metadata={'start_index': 5877}
+
+
+[18] page_content='Political Agenda Cards These cards (used in 4-player games only) are drawn each round by the State and indicate the Political Agenda of the current administration. The State is awarded VP at the end of each round, depending on how close the current political situation is to their card.' metadata={'start_index': 6215}
+
+
+[19] page_content='Storages These tiles allow you to increase the capacity of the Storages in your player board (Capitalist Class and Middle Class only). The regular Storages can be bought by the Capitalist Class or obtained through Action cards by the Middle Class and they effectively double the storage capacity on your board' metadata={'start_index': 6502}
+
+
+[20] page_content='. There is also a special Storage – the Free Trade Zone – that the Capitalist Class starts the game with: Only goods can be stored in the Free Trade Zone (Food and Luxury) and they may only be sold in the Foreign Market afterwards – not the other players. Immigration Cards These cards indicate the type of Immigrants (skilled/unskilled) that come into play at the beginning of each round, during the Preparation Phase.' metadata={'start_index': 6811}
+
+
+[21] page_content='Middle Class Worker Working Class Worker Type and amount of goods provided Main cost of goods Tarrifs imposed based on Policy 6 - Foreign Trade (paid to the State) Business Deal Cards These cards allow the Capitalist Class to buy multiple goods (Food and/or Luxury) from the Foreign Market at a lower than usual price. Depending on the current Foreign Trade Policy (Policy 6), tariffs may need to be paid to the State unless those goods are only sold back to the Foreign Market.' metadata={'start_index': 7231}
+
+
+[22] page_content='Storage tile Free Trade Zone tile Storage Limit VP Track: This keeps track of the players' points during the game.' metadata={'start_index': 7710}
+
+
+[23] page_content='HEGEMONY: GAME BOARD 6 GAME BOARD Politics Table: This table shows the Policies that exist in the game and indicates which ones are in effect. Each Policy can be in one of three sections (A, B or C) which correspond to specific ideologies. In Policies 1-5, these sections range from Socialism (A) to Neoliberalism (C) while in Policies 6-7 they range from Nationalism (A) to Globalism (C). Throughout the game players will be constantly trying to change these Policies to their benefit' metadata={'start_index': 7825}
+
+
+[24] page_content='. Throughout the game players will be constantly trying to change these Policies to their benefit. State Benefits: (4-Player only) This is where the benefits provided by the State, either due to Events or card effects, are placed (usually resources or money). Private Sector: This is where the Companies built by the Capitalist Class and the Middle Class are placed.' metadata={'start_index': 8213}
+
+
+[25] page_content='Public Sector: This is where the Public Companies are placed. All of them are placed on the board during Setup but some of them will be inactive (turned face-down) depending on the “size” of the Public Sector, which is determined by Policy 1 – Fiscal Policy.
+Unemployed Workers: This is where new Workers are placed when they come into the game, usually at the beginning of each round. Any Workers who become unemployed in the course of gameplay are also placed here.' metadata={'start_index': 8580}
+
+
+[26] page_content='Immigration: This is where the Immigration deck is placed. When Immigrants come into the game, their type (whether they are skilled or not and in which Industry) is determined by cards from this deck. The number of cards drawn is determined by Policy 7 - Immigration.' metadata={'start_index': 9048}
+
+
+[27] page_content='Public Services: This is where the resources produced by the State (Health, Education and Influence) are placed. The Working Class and the Middle Class can freely buy those resources, with the prices for Health and Education determined by Policies 4 and 5. State Treasury: This is where the State’s money is kept. Events: (4-Player only) This is where the Event cards that the State needs to deal with are placed.' metadata={'start_index': 9316}
+
+
+[28] page_content='Vote Results: Whenever voting occurs, players state whether they are in favor or against the proposed change and then draw cubes from the bag to determine the outcome. You can place the drawn cubes in these spaces according to the players’ preference.' metadata={'start_index': 9730}
+
+
+[29] page_content='Tax Multiplier: This keeps track of the Tax Multiplier’s value. This multiplier is used when determining the tax that the Capitalist Class and the Middle Class will have to pay. Its value is affected by Policies 3, 4 and 5. Import: Goods in the game (Food & Luxury) can be bought, if needed, from the Foreign Market' metadata={'start_index': 9982}
+
+
+[30] page_content='. Import: Goods in the game (Food & Luxury) can be bought, if needed, from the Foreign Market. Their cost is listed at the bottom but, depending on the Foreign Trade Policy (Policy 6), there may also be tariffs that you need to pay to the State, as indicated by the marker on that space. Export: This is where the Export cards are placed. These cards allow the players to sell Goods and Services to the Foreign Market' metadata={'start_index': 10204}
+
+
+[31] page_content='. These cards allow the players to sell Goods and Services to the Foreign Market. The values shown on the board give an indication of the prices per single resource found on the cards.' metadata={'start_index': 10541}
+
+
+[32] page_content='Business Deals: This is where the Business Deal cards are placed for use by the Capitalist Class. The number of cards placed is determined by Policy 6 – Foreign Trade.
+Round Track: This keeps track of the current round.
+State Legitimacy: These tracks indicate the Legitimacy of the State as perceived by each Class. The State tries to increase it as much as possible and (ideally) evenly. At the end of each round the State gains VP based on the 2 lowest scores.' metadata={'start_index': 10726}
+
+
+[33] page_content='Influence Storage: This is where the State stores its Personal Influence. Unlike the Media Influence found on the Public Services area of the main board, this cannot be bought by the other players. Food & Luxury Storage: Initially, the State does not own any Companies that produce Food or Luxury. During the game however, this may change' metadata={'start_index': 11189}
+
+
+[34] page_content='. During the game however, this may change. If it does or if the State ends up buying goods due to a card effect, this is where those goods are stored and can be bought by the other players for the listed price. HEGEMONY: PLAYER BOARDS 7 PLAYER BOARDS Working Class Population Track: Use the top track to record the number of Working Class Workers in the game. That number determines the player’s Population, shown directly beneath it' metadata={'start_index': 11485}
+
+
+[35] page_content='. That number determines the player’s Population, shown directly beneath it. Population is very important for the Working Class player because it determines the quantity of resources that the player will need to spend when performing certain actions as well as their buying limit.' metadata={'start_index': 11844}
+
+
+[36] page_content='Prosperity: This track shows the Working Class’s Prosperity. Prosperity is increased when the Working Class provides Health, Education or Luxury to its people. The higher it is, the more VP the player gains.
+Trade Unions: The Working Class can establish Trade Unions in Industries where many of its Workers are employed. Having a Trade Union provides the player with Influence and additional VP.
+Income: This is where the Working Class keeps its money.' metadata={'start_index': 12125}
+
+
+[37] page_content='Income: This is where the Working Class keeps its money.
+Goods & Services: This is where the bought/gained resources are kept until they are used (Health, Education, Luxury and Influence). Capitalist Class Revenue: This is where the Capitalist Class stores all the new money it receives. Expenses are also covered from Revenue, unless stated otherwise.' metadata={'start_index': 12521}
+
+
+[38] page_content='Capital: Each round, after the Capitalist Class pays Wages and taxes, all the money remaining in the Revenue is moved to this area and the player gets VP based on the total amount there.' metadata={'start_index': 12874}
+
+
+[39] page_content='Wealth: This table indicates the VP that the player scores at the end of the round, depending on the total amount of money in the Capital area (after the money in Revenue has been transferred). If the amount is higher than it was before, additional VP are also awarded. Storage Areas: This is where the goods and services produced by the Capitalist Class’s Companies are stored. Each Storage has a limit on how many resources it can keep, shown at the bottom' metadata={'start_index': 13061}
+
+
+[40] page_content='. Each Storage has a limit on how many resources it can keep, shown at the bottom. Beneath each Storage there is an indicator with the price at which that resource can be sold to other players. Note that Influence cannot be sold and there is also no limit on how much of it can be stored. Middle Class Population Track: Use the top track to record the number of Middle Class Workers in the game. That number corresponds to the player’s Population, shown directly beneath it' metadata={'start_index': 13438}
+
+
+[41] page_content='. That number corresponds to the player’s Population, shown directly beneath it. Population is very important for the Middle Class player because it determines the quantity of resources that the player will need to spend when performing certain actions as well as their buying limit.' metadata={'start_index': 13832}
+
+
+[42] page_content='Prosperity: This track shows the Middle Class’s Prosperity. Prosperity is increased when the Middle Class provides Health, Education or Luxury to its people. The higher the Prosperity, the more VP the player gains. Note that, even though they work similarly, the Middle Class’s Prosperity track is different than the Working Class’s track.' metadata={'start_index': 14116}
+
+
+[43] page_content='Storage Areas: This is where the goods and services produced by the Middle Class’s Companies are stored. Each Storage has a limit on how many resources it can keep, shown at the bottom. Beneath each Storage there is an indicator with the price at which that resource can be sold to other players. Income: This is where the Middle Class keeps its money.
+Goods & Services: This is where the bought resources are kept until they are used (Health, Education, Luxury and Influence).' metadata={'start_index': 14456}
+
+
+[44] page_content='HEGEMONY: GAME SETUP 8 The Game Setup changes slightly depending on the number of players. The following instructions describe how you set up the main board and most of the components. Then, detailed instructions follow, on how to set up each role separately. Please note that in each player count, only some of the roles are available: • In a 2-player game, the players take the roles of the Capitalist Class and the Working Class.' metadata={'start_index': 14934}
+
+
+[45] page_content='• In a 3-player game, the players take the roles of the Capitalist Class, the Working Class and the Middle Class.
+• In a 4-player game, all roles are available.
+For your first game, we suggest you play with 2 players to get a basic understanding first of how everything works, before adding the other 2 roles.
+Main Board Setup To setup the main board, perform the following steps: Place the board in the middle of the table where everyone can reach it.' metadata={'start_index': 15368}
+
+
+[46] page_content='Place the 4 starting Capitalist Class Companies on the board (Supermarket, Shopping Mall, College and Clinic) in the Capitalist Class’s area of the Private Sector. Place a marker on the L2 Wage spot on each card' metadata={'start_index': 15823}
+
+
+[47] page_content='. Place a marker on the L2 Wage spot on each card. Take the Public Companies and return to the box the 3 Companies that do not correspond to your player count (as indicated by the small diamonds next to the cards’ cost - the cards with the 2 diamonds are used in 2-player games, the cards with the 3 diamonds are used in 3 or 4 player games )' metadata={'start_index': 15985}
+
+
+[48] page_content='. Place the 3 starting Public Companies in the first row of the Public Sector (each one beneath the corresponding resource in the Public Services area) and place a marker on the L2 Wage spot on all 3 cards. Then, place a Public Company card of each type in the second row face-down, and the remaining 3 cards in the third row, also face-down' metadata={'start_index': 16327}
+
+
+[49] page_content='. If playing with 3 or 4 players, place the 2 starting Middle Class Companies, on the board (Convenience Store and Doctor's Office) in the Middle Class’s area of the Private Sector. Place a marker on the L2 Wage spot on each card.' metadata={'start_index': 16668}
+
+
+[50] page_content='Shuffle the Business Deals deck and place it next to the board. Draw the top card and place it face up on one of the corresponding spaces. Shuffle the Export deck and place it next to the board. Draw the top card and place it face-up on its corresponding space. Then, place a marker on the middle space of the Import section.' metadata={'start_index': 16899}
+
+
+[51] page_content='Shuffle the Immigration deck and place it on its corresponding space on the board. Place the Policy markers on the Politics table on these spaces:  Place 120 in the State Treasury as the State's starting money.
+Place Health tokens, Education tokens and Influence on their corresponding spaces in the Public Services area, depending on the number of players: Place the Round marker on the first space of the Round track and the Tax Multiplier marker on 5.' metadata={'start_index': 17225}
+
+
+[52] page_content='Place each player’s scoring marker on the 0 space of the Scoring track.
+Make 3 piles of the Voting cubes based on their color and place them near the board. Take 8 cubes of each color and place them in the cloth bag, then place the bag near the board. Add cubes of all 3 colors, even in 2-player games where the Middle Class is not playing.' metadata={'start_index': 17683}
+
+
+[53] page_content='Make piles of all the resources (Food, Luxury, Health, Education and Influence) and place them next to the board where players can easily reach them. Do the same for the money, Machinery tokens, Loan cards, Storage tiles, Strike tokens, Demonstration token, Legitimacy tokens (4-player games only) and the marker cubes.' metadata={'start_index': 18025}
+
+
+[54] page_content='Group the Working Class and Middle Class Workers by color and by type and place them near the board where the corresponding players can easily reach them. (In a 2-player game return the Middle Class Workers to the box as they are not used) Place the General Player Aid near the board so all players can easily have access to it.' metadata={'start_index': 18346}
+
+
+[55] page_content='GAME SETUP 1A 1C 2A 2B 3B 3C 4A 4C 5B 1B 2C 3A 4B 5A 5C 5B 5A 4A 4C 3B 3C 2A 1B 2C 1A 6B 6C 7A 7C 7A 6C 7C 6A 7B 6A HEALTH EDUCATION INFLUENCE 2 Players 5 5 3 3 or 4 Players 6 6 4 After you complete the setup for the main board, have each player take a role (either randomly or by choice) and perform that role’s setup' metadata={'start_index': 18676}
+
+
+[56] page_content='. We suggest that each player sits as shown in the following diagram: WORKING CLASS MIDDLE CLASS CAPITALIST CLASS STATE 9 2 10 3 11 4 12 5 13 6 14 7 15 8 16 1 7 9 9 9 1 1 1 1 1 10 2 2 2 2 2 11 11 3 3 3 3 3 12 4 4 4 4 4 13 5 5 5 5 5 6 6 6 6 6 15 7 7 7 7 16 8 8 8 8 8 9 9 10 10 14 14 14 HEGEMONY: GAME SETUP 9 HEGEMONY: PLAYER SETUPS 10 Working Class Setup Place the Working Class player board in front of you. Place a marker on the Population track, at the indicated starting space (10 Workers)' metadata={'start_index': 18994}
+
+
+[57] page_content='. Place a marker on the Population track, at the indicated starting space (10 Workers). Place a Prosperity marker on the first space of the Prosperity track (0). Get 30 and 1 Influence, placing them on their corresponding spaces. Take the 3 red Bill markers and your Voting token and place them near your board. Take the Working Class Action cards, shuffle them and place them in a face-down pile next to your board. Draw 7 of those cards to your hand' metadata={'start_index': 19401}
+
+
+[58] page_content='. Draw 7 of those cards to your hand. Place the Working Class Player Aid next to your board. Take the 2 Cooperative Farm cards and place them on the side for now (they are only used if some specific cards are played)' metadata={'start_index': 19817}
+
+
+[59] page_content='. Depending on the number of players, place Working Class Workers on the following Companies, according to the slots on their cards: • In a 2-Player game: Supermarket (a green and a gray meeple), Shopping Mall (a blue and a gray meeple), Public Hospital (a white and a gray meeple), Public University (an orange and a gray meeple)' metadata={'start_index': 20034}
+
+
+[60] page_content='. • In a 3-Player or 4-Player game: Supermarket (a green and a gray meeple), College (an orange and a gray meeple) and University Hospital (one white and two gray meeples).' metadata={'start_index': 20366}
+
+
+[61] page_content='Please note that all the Workers must be placed in a standing position.  Place a Working Class unskilled Worker (gray meeple) in the Unemployed Workers area. Then: • In a 2-player game, draw 1 Immigration card. • In a 3 or 4 player game, draw 2 Immigration cards.
+Place the Working Class Worker shown on each card drawn in the Unemployed Workers area as well. Then, return the card(s) drawn to the bottom of the Immigration deck.' metadata={'start_index': 20540}
+
+
+[62] page_content='Capitalist Class Setup Place the Capitalist Class player board in front of you.
+Get 120 and place them in the Revenue area of your board.
+Place a marker next to the Wealth table.
+Get 1 Food, 2 Luxury, 2 Education and 1 Influence and place them in the corresponding Storages on your board. Then place a marker to indicate the selling price of each resource: Place the Food’s marker at 12 and the other 3 resources’ markers at 8 .
+Take the Free Trade Zone and place it next to your board.' metadata={'start_index': 20972}
+
+
+[63] page_content='Take the Free Trade Zone and place it next to your board.
+Take the 3 blue Bill markers and your Voting token and place them near your board.
+Take the Capitalist Class Action cards, shuffle them and place them in a face-down pile next to your board. Draw 7 of those cards to your hand.
+Place the Capitalist Class Player Aid next to your board.' metadata={'start_index': 21401}
+
+
+[64] page_content='Place the Capitalist Class Player Aid next to your board.
+Take the Capitalist Class Companies, shuffle them and place them in a face-down pile near your board. Then, reveal the first 4 Companies and place them face up next to the Company pile. These will be your Market during the game.
+State Setup The following setup is performed only when playing with 4 players.
+Place the State player board in front of you.' metadata={'start_index': 21686}
+
+
+[65] page_content='Place the State player board in front of you.
+Place a marker of the corresponding player color on the second space of each Legitimacy track.
+Get 1 Influence and place it on the appropriate space.
+Take the 3 gray Bill markers and your Voting token and place them near your board.
+Take the State Action cards, shuffle them and place them in a face-down pile next to your board. Draw 7 of those cards to your hand.
+Place the State Player Aid next to your board.' metadata={'start_index': 22052}
+
+
+[66] page_content='Place the State Player Aid next to your board.
+Take the Event cards, shuffle them and place them in a face-down pile near your board. Then, draw 2 cards and place them face-up on the corresponding spaces on the board. If any of them states "Rounds 2-5 only", shuffle it back to the pile and draw a new card in its place.' metadata={'start_index': 22464}
+
+
+[67] page_content='Take the Political Agenda cards, shuffle them and place them in a face-down pile near your board. Then, draw the top card and place it face up next to your board so that all players can see it. Place the Health Welfare Tile on the Public Services section of the board, beneath the Health tokens there. Make sure the face-up side is the one corresponding to Policy 4.B. Place the Education Welfare Tile somewhere near your board.' metadata={'start_index': 22785}
+
+
+[68] page_content='Middle Class Setup The following setup is performed only when playing with 3 or 4 players.
+Place the Middle Class player board in front of you.
+Place a marker on the Population track, at the indicated starting space (10 Workers).
+Place a Prosperity marker on the first space of the Prosperity track (0).
+Get 40 and 1 Influence, placing them on their corresponding spaces.' metadata={'start_index': 23214}
+
+
+[69] page_content='Get 40 and 1 Influence, placing them on their corresponding spaces.
+Get 1 Food and 1 Health and place them in the corresponding Storages on your board. Then, place a marker to indicate the selling price of each resource: Place the Food’s marker at 12 and the other 3 resources’ markers at 8 .
+Take the 3 yellow Bill markers and your Voting token and place them near your board.' metadata={'start_index': 23518}
+
+
+[70] page_content='Take the 3 yellow Bill markers and your Voting token and place them near your board.
+Take the Middle Class Action cards, shuffle them and place them in a face-down pile next to your board. Draw 7 of those cards to your hand.
+Place the Middle Class Player Aid next to your board.' metadata={'start_index': 23811}
+
+
+[71] page_content='Place the Middle Class Player Aid next to your board.
+Take the Middle Class Companies, shuffle them and place them in a face-down pile near your board. Then, reveal the first 3 Companies and place them face up next to the Company pile. These will be your Market during the game.' metadata={'start_index': 24036}
+
+
+[72] page_content='On each of the following Companies, place Middle Class Workers that correspond to the slots available on the cards: Technical University (one orange and two gray meeples), Shopping Mall (a blue and a gray meeple), Convenience Store (a green meeple) and Doctor's Office (a white meeple).' metadata={'start_index': 24315}
+
+
+[73] page_content='Please note that all the meeples must be placed in a standing position. Place a Middle Class skilled Worker of your choice in the Unemployed Workers area (taking into account the Company cards in your Market) and then draw 2 Immigration cards. Place the Middle Class Workers shown on those 2 cards in the Unemployed Workers area as well. Then, return the cards to the bottom of the Immigration deck.' metadata={'start_index': 24602}
+
+
+[74] page_content='PLAYER SETUPS 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 1 1 1 1 9 9 9 9 10 10 11 HEGEMONY: HOW TO PLAY - MAIN RULES 11 Hegemony is played over a series of 5 Rounds. Each round consists of multiple phases, each with its own steps. At the end of the 5th round, there is an additional Endgame step and end-game scoring is applied. The player with the most Victory Points (VP) is the winner.' metadata={'start_index': 25002}
+
+
+[75] page_content='Each round consists of the following phases: • Preparation Phase • Action Phase • Production Phase • Elections Phase • Scoring Phase The following part explains what happens during each phase. Since each role plays differently, a general description will first be given, with rules that apply to all players. Then, a separate section for each role will follow, which will list that role’s specific rules. Preparation Phase This phase is skipped during the game’s 1st round.' metadata={'start_index': 25404}
+
+
+[76] page_content='During the Preparation Phase you set up the new round. You start by moving the Round marker to the next spot on the Round track. Then, each player performs the steps pertaining to their role. If any timing issues arise, consult the General Player Aid to see the exact order in which these steps should be performed.
+After each player has performed their steps, proceed to the Action Phase.' metadata={'start_index': 25878}
+
+
+[77] page_content='After each player has performed their steps, proceed to the Action Phase.
+Action Phase The Action Phase is where the core of the game lies. The players play Action cards from their hand, performing actions and trying to pursue their goals. Players play 5 turns during the Action Phase (leaving 2 cards in hand for the next round).
+The turn order is always the same: 1. Working Class 2. Middle Class 3. Capitalist Class 4. State In 2 or 3 player games, ignore the roles not playing.' metadata={'start_index': 26194}
+
+
+[78] page_content='Starting with the Working Class, each player on their turn chooses one of the cards in their hand to perform their Main Action: They either play the effect on the chosen card or they can discard it to perform a Basic Action. Each player has a different set of Basic Actions available to them which can be found in their own section and are also listed on their Player Aid for easy reference. A player may also perform one Free Action during their turn, either before or after their Main Action' metadata={'start_index': 26676}
+
+
+[79] page_content='. Once again, each player has a different set of Free Actions available to them which can also be found on their Player Aid.' metadata={'start_index': 27169}
+
+
+[80] page_content='When playing a card for its effect as a Main Action, keep in mind that some of the cards have a requirement listed on them, usually regarding what Policy is currently in effect. You may only play those cards for their effect if the requirement is met (if, for example, the current Policy is one of those listed on the card). If the requirement is not met, you may only use the card to perform a Basic Action' metadata={'start_index': 27294}
+
+
+[81] page_content='. If the requirement is not met, you may only use the card to perform a Basic Action. If an Action card that is played for its effect shows one or more Class symbols with a number next to them on the bottom, it means that the Legitimacy scores for those Classes are modified accordingly on the State’s board (see the State’s section for more details). After applying the effect of the card, move the Legitimacy markers as instructed. Note that this only happens in 4-player games' metadata={'start_index': 27617}
+
+
+[82] page_content='. Note that this only happens in 4-player games. When playing with fewer players, ignore those symbols. Symbols are also ignored if the card is discarded for a Basic Action.' metadata={'start_index': 28049}
+
+
+[83] page_content='Note that some card effects may instruct you to perform one or more Basic Actions, usually with some constraint or small adjustment. In those cases, unless otherwise specified, the rules for those Basic Actions (as listed in each role’s section), apply as normal.
+After a player has completed their turn, the next player in order plays. This continues until all players have played a total of 5 turns. The 2 remaining cards in each player’s hand are kept for the next round.' metadata={'start_index': 28223}
+
+
+[84] page_content='Production Phase In this phase, the various Companies in the game produce goods or services and the Workers in them are paid their Wages. The people’s most basic needs are then covered and taxes are paid.' metadata={'start_index': 28698}
+
+
+[85] page_content='The Production Phase consists of the following steps: • Produce Goods & Services • Cover Needs • Check IMF • Pay Taxes During the Production Phase, the player order is reversed. This means that each step is performed first by the State, then by the Capitalist Class, then by the Middle Class and finally by the Working Class. Note that you move to the next step only after all players have performed the previous one.' metadata={'start_index': 28903}
+
+
+[86] page_content='Produce Goods & Services In this step, each player who controls Companies (the State, the Capitalist Class and the Middle Class), pays the listed Wage for each Company to the player who controls the Workers there. Note that the Wage listed in each Company corresponds to all the Workers working there - it is not paid for each Worker separately' metadata={'start_index': 29321}
+
+
+[87] page_content='. Then, each Company produces the listed amount of goods or services – the player who owns the Company adds the appropriate resources to their corresponding storage areas.' metadata={'start_index': 29665}
+
+
+[88] page_content='HOW TO PLAY - MAIN RULES Example: Jim plays as the Working Class. On his turn, he chooses the card State Scholarship from his hand. The requirement listed on the card is met so he decides to play it for its effect. He proceeds to Buy Education, paying half the cost to the State. When he is done, Anna, who plays the State, moves the Working Class Legitimacy marker on her player board one space forward.' metadata={'start_index': 29837}
+
+
+[89] page_content='HEGEMONY: HOW TO PLAY - MAIN RULES 12 Even in a 2 or 3 player game, where the State is not run by a player, the Public Companies still produce. Pay the Workers’ Wages using the money in the State Treasury and add the produced resources to the Public Services area of the board. Cover Needs In this step, the Middle Class and the Working Class cover the most basic needs of their people. This is done by consuming Food equal to their Population' metadata={'start_index': 30242}
+
+
+[90] page_content='. This is done by consuming Food equal to their Population. If they do not have enough Food, they must buy it from any combination of sources. Check IMF In this step, you check if the State has more Loans than what its Fiscal Policy allows (Policy 1). If it does, see first if it is able to pay them off by spending 55 for each. If it does and now has less Loans than what the Fiscal Policy states, move to the next step' metadata={'start_index': 30627}
+
+
+[91] page_content='. If it does and now has less Loans than what the Fiscal Policy states, move to the next step. If not, then the IMF (International Monetary Fund) intervenes, forcing some of the Policies to change (see IMF Intervention in Other Rules for more details).' metadata={'start_index': 30954}
+
+
+[92] page_content='Pay Taxes In this step, the players pay their taxes to the State, based on the Taxation Policy that is currently in effect (Policy 3). A detailed analysis on what each Class pays can be found in its own section and a shorter version is shown on its Player Aid.
+Elections Phase In this phase, elections are performed to determine whether the Bills that were proposed during the Action Phase will actually pass or not.' metadata={'start_index': 31207}
+
+
+[93] page_content='The Elections Phase consists of the following steps: • Refill Bag • Carry Out Elections In the Elections Phase, the regular player-order is used when needed (Working Class, Middle Class, Capitalist Class and finally the State).
+Note that if no Bill has been proposed during the Action Phase, the Elections Phase is entirely skipped.' metadata={'start_index': 31624}
+
+
+[94] page_content='Refill Bag Before the elections take place, each of the 3 Classes adds Voting cubes to the bag. The Working Class adds cubes equal to half its Population (rounded up)' metadata={'start_index': 31957}
+
+
+[95] page_content='. The Working Class adds cubes equal to half its Population (rounded up). The Capitalist Class adds cubes equal to half the number (rounded up) of its operational Companies (Companies that have Workers on them or that are fully automated), and the Middle Class adds cubes equal to whichever of those two values is higher for that Class (half of its Population or half of its operational Companies, rounded up).' metadata={'start_index': 32051}
+
+
+[96] page_content='In a 2-player game where the Middle Class isn’t controlled by a player, you still add 5 of its cubes to the bag.
+The State does not have cubes of its own so it doesn’t add anything to the bag. Instead, it gains Influence based on its lowest Legitimacy score (see the State’s section for more details).
+Carry Out Elections For each Policy that has a proposed Bill marker on it, an election is carried out. Start with Policy 1 and proceed in order.' metadata={'start_index': 32462}
+
+
+[97] page_content='When carrying out an election, the players, starting with the Working Class and using the player-order, state whether they are in favor or against changing the Policy as suggested by the proposed Bill (abstaining is not an option), turning their Vote token accordingly as a reminder. The player who proposed the Bill is in favor by default' metadata={'start_index': 32909}
+
+
+[98] page_content='. The player who proposed the Bill is in favor by default. After all players have stated their preference, draw 5 cubes from the Voting bag and place them on the appropriate spaces on the board, based on the players’ preferences. Each cube counts as one vote. This is the initial outcome but the players are then given the option to affect it by spending Influence' metadata={'start_index': 33191}
+
+
+[99] page_content='. Each player announces the Influence they have, takes it all in one hand and secretly places in their other hand the amount they want to spend. All players extend their closed hand (containing the Influence they spend) over the board and reveal it at the same time. Each Ιnfluence spent counts as an additional vote for the player’s initial choice' metadata={'start_index': 33555}
+
+
+[100] page_content='. Each Ιnfluence spent counts as an additional vote for the player’s initial choice. Put them in the appropriate spaces on the board and count the total number of votes in each outcome: • If the “In Favor” option has equal or more votes than “Against”, the Bill passes. Move the Policy marker to the new section and return the player’s Bill marker in front of them. That player immediately gains 3VP' metadata={'start_index': 33820}
+
+
+[101] page_content='. That player immediately gains 3VP. All other players who supported them and had votes in the “In Favor” box (either cubes from the bag or Influence placed afterwards) gain 1 VP as well.' metadata={'start_index': 34184}
+
+
+[102] page_content='• If the “Against” option has more votes than “In Favor”, the Bill does not pass. Return the player’s Bill marker in front of them and continue to the next Policy. No VP are awarded in this case.' metadata={'start_index': 34372}
+
+
+[103] page_content='In a 2-Player game, Middle Class cubes drawn count as part of the 5 cubes but are immediately discarded – they are neither in favor or against. The result comes from the remaining voting cubes. In the rare case where all 5 cubes drawn belong to the Middle Class (and no Influence is spent by the players), the Bill passes. Note that VP are awarded only when a Bill is passed' metadata={'start_index': 34568}
+
+
+[104] page_content='. Note that VP are awarded only when a Bill is passed. Moreover, even if a Bill passes, only IMPORTANT: Each Public Service has a storage limit equal to the production of the corresponding available Public Companies plus 6 (regardless if they are operational or not). If the State ever produces or receives more services than it can store, any excess is lost.' metadata={'start_index': 34889}
+
+
+[105] page_content='IMPORTANT: The money spent for taxes must always go to the State Treasury. Please pay close attention to this so that players don’t just return the money to the Supply by accident when paying.' metadata={'start_index': 35249}
+
+
+[106] page_content='HEGEMONY: HOW TO PLAY - MAIN RULES 13 the supporting players who actually contributed with at least 1 vote (either Voting cube or Influence) gain 1 VP. This does not apply to the player who actually proposed the Bill – if it passes, they gain 3 VP even if they ended up not contributing at all and only won due to the supporting players’ votes.' metadata={'start_index': 35442}
+
+
+[107] page_content='After the outcome has been determined, discard all the cubes on the winning side and all the Influence spent by the players (regardless if it was on the winning side or not). Then, return all the cubes of the losing side, back in the bag. If any changes need to be made to the board due to a Policy changing (for example: if more Public Companies open due to Fiscal Policy, if Wages change due to Labor Market, etc.), apply them before moving to the next Policy' metadata={'start_index': 35787}
+
+
+[108] page_content='.), apply them before moving to the next Policy. In the rare case in which all the players state the same preference in an election (which causes it to pass by default), 5 cubes are still drawn from the bag and are all discarded. VP are awarded as normal, 3 VP to the one who proposed the Bill, and 1 VP to everyone else who contributed' metadata={'start_index': 36201}
+
+
+[109] page_content='. Also, If at any point there are no more Voting cubes left in the bag and you need to draw, perform the Refill bag twice (without giving any Influence to the State) and then draw.' metadata={'start_index': 36537}
+
+
+[110] page_content='You can find a detailed example of an Election in the corresponding section later in the rulebook. When all the elections have been carried out, proceed to the next phase. Scoring Phase In this phase, the players get to score additional Victory Points based on their progress. Also, the State applies the penalties for all the Events that they didn’t act upon during the Action Phase and are still on the board' metadata={'start_index': 36718}
+
+
+[111] page_content='. Note that while all of the roles have the potential to score VP during this phase, the amounts may be vastly different among them. For one role, the VP they get during this phase can be their main source of points in the game while for another it may only be a small bonus. Game End At the end of the 5th round, the game ends. Players are given penalties for the Loans they have and then their final score is calculated.' metadata={'start_index': 37128}
+
+
+[112] page_content='Check Loans The Capitalist Class gets a penalty of -5 VP for each Loan it has. The rest of the players are given a chance to pay off their Loans first. They do so by paying 55 for each Loan they have and discarding the Loan card afterwards. If they can’t afford to pay the full amount, they spend as much as they can in increments of 5 and then they lose 1 VP for every 5 they didn’t pay.' metadata={'start_index': 37551}
+
+
+[113] page_content='Calculate Game End Score After the game ends, each player gets to score some additional points based on the current state of Politics and the state of their Personal board. See each role’s section for more details.' metadata={'start_index': 37940}
+
+
+[114] page_content='After applying those final points, the player with the highest score is the winner. In case of a tie, look at Policies 1-5 and count how many each player has in the section of their choice (section A for the Working Class, section B for the Middle Class, section C for the Capitalist Class and matching their Political Agenda card for the State). The player among those tied with the most Policies wins. If there is still a tie and the State is among the tied players, the State wins' metadata={'start_index': 38155}
+
+
+[115] page_content='. If there is still a tie and the State is among the tied players, the State wins. If not, the player with the most Voting cubes is the winner. If there is still a tie, tied players share the victory.' metadata={'start_index': 38557}
+
+
+[116] page_content='Example: Claire, playing as the Middle Class, ended the game with 1 Loan and 38 . She must pay off as much of the Loan as she can (in increments of 5 ), so she spends 35 . The remaining 20 that she didn’t pay means that she loses 4 VP.' metadata={'start_index': 38758}
+
+
+[117] page_content='HEGEMONY: HOW TO PLAY - WORKING CLASS 14 WORKING CLASS Overview Your goal as the Working Class is to increase your people’s Prosperity. To achieve that, you assign your Workers to work in Companies and you are paid in Wages for the work they provide. You then spend the money gained through Wages to cover basic needs such as Food, Health, Education and if possible, entertainment.' metadata={'start_index': 38994}
+
+
+[118] page_content='Preparation Phase During the Preparation Phase, perform the following steps in order: Pay Interest on Loans For every Loan that you have, you must pay 5 as interest. Drop Prosperity Reduce your Prosperity by 1 space. If it’s already in the first space of the track (space 0) it stays where it is and nothing further happens. Note that while you gain VP when you increase Prosperity (see your Free Actions below), you do not lose any VP when Prosperity is reduced' metadata={'start_index': 39376}
+
+
+[119] page_content='. Draw Action Cards Draw 5 Action cards from your deck (so that you have a total of 7 in your hand). These are kept secret from the other players. Get New Workers and Adjust Population Add 2 of your unskilled (gray) Workers in the Unemployed Workers area. Then, check Immigration (Policy 7). If it is in section B or C, you need to place additional Workers in the Unemployed Workers area. Their type (skilled or unskilled) is determined by the Immigration cards' metadata={'start_index': 39838}
+
+
+[120] page_content='. Their type (skilled or unskilled) is determined by the Immigration cards. Reveal a number of Immigration cards as dictated by the current Policy (1 card if Immigration is in section B, 2 cards if it is in section C). Add the Working Class Worker shown in each of the revealed cards to the Unemployed Workers area (ignore the Worker of the Middle Class). Then, put the revealed cards at the bottom of the Immigration deck.' metadata={'start_index': 40225}
+
+
+[121] page_content='After adding the new Workers, you must adjust the marker in your Population track accordingly by moving it as many spaces forward as the total number of new Workers added (either 2, 3 or 4).' metadata={'start_index': 40649}
+
+
+[122] page_content='Action Phase Basic Actions The Basic actions you may perform on your turn are the following: Propose Bill By performing this action, you express your desire to change one of the policies that are currently in effect into a new one that will better suit your needs. To Propose a Bill, take one of your Bill markers and place it on a policy you want to change, on a section next to the one that is currently in effect. This is the policy that you propose to come into effect' metadata={'start_index': 40840}
+
+
+[123] page_content='. This is the policy that you propose to come into effect. You cannot choose a section that is not right next to the current one. For example, if Taxation is at section A, you cannot place your marker on section C. In addition, you are not allowed to Propose a Bill for a Policy which already has a player’s marker on it. If, for example, Labor Market is at section B and another player has already Proposed a Bill for section C, you are not allowed to Propose a Bill for section A' metadata={'start_index': 41255}
+
+
+[124] page_content='. Normally, after you Propose a Bill, nothing further happens at this point. All the Proposed Bills will have their outcome determined later in the round, during the Elections Phase. However, you have the option, right after you Propose a Bill, of calling for an Immediate Vote by spending 1 Influence' metadata={'start_index': 41736}
+
+
+[125] page_content='. If you do, elections are carried out immediately for this particular policy and the Bill you proposed (see the “Carry Out Elections” step in the Elections Phase for more details on how to carry out an election). If your proposal wins, immediately move the policy marker to the section you proposed and score points as normal - the new policy is now in effect. If your proposal loses, leave the policy marker where it is. In both cases, return your marker in front of you after the vote' metadata={'start_index': 42037}
+
+
+[126] page_content='. In both cases, return your marker in front of you after the vote. You have a total of 3 markers which means that, unless you call for Immediate Votes (In which case the marker returns in front of you after the election), you cannot Propose more than 3 Bills in a round. Assign Workers With this action you find jobs for your Workers, assigning them to work on available Companies' metadata={'start_index': 42458}
+
+
+[127] page_content='. When you Assign Workers, choose up to 3 of your Workers on the board and place them on the corresponding slots of available Companies. The following rules apply: • You may take Workers from anywhere on the board. This includes the Unemployed Workers area as well as other Companies where your Workers already work (unless they are committed – see below for details). • A Company can either have all of the required Workers on it (and be operational) or none at all (and be non-operational)' metadata={'start_index': 42839}
+
+
+[128] page_content='. This means that you cannot assign a single Worker to a Company with 2 or 3 available slots. If you can’t fill all the slots, you simply cannot assign your Worker(s) there. Similarly, if you take a Worker from a Company and assign it somewhere else, the remaining Workers in that initial Company cannot remain there since not all the slots are now filled, so they are moved immediately to the Unemployed Workers area. (Note that this is checked after the whole action has been performed' metadata={'start_index': 43330}
+
+
+[129] page_content='. (Note that this is checked after the whole action has been performed. This means that you are allowed to take a Worker from a Company, assign it to another Whenever an effect of yours mentions Workers, unless stated otherwise, it refers to Workers of your own Class only. Also, your Population track should at all times correspond to the actual number of Workers you have. Whenever you get or lose Workers, adjust the marker there accordingly.' metadata={'start_index': 43747}
+
+
+[130] page_content='Example: A new round starts in the game and the current Immigration Policy is C. Jim plays as the Working Class so he adds 2 gray Workers to the Unemployed Workers area and then draws 2 Immigration cards. The Working Class Worker is unskilled in the first card and skilled in Education in the second so a gray and an orange Worker are added to the Unemployed Workers area.' metadata={'start_index': 44193}
+
+
+[131] page_content='HEGEMONY: HOW TO PLAY - WORKING CLASS 15 Company, and then assign a different Worker to the initial Company – assuming it is allowed by the slot – to cover the position that was emptied). • Some slots require skilled Workers. Only skilled Workers of that industry (meeples of the appropriate color) can be placed on those slots. The rest of the slots are for unskilled Workers, but any Worker may be placed on them regardless of whether they are skilled or not' metadata={'start_index': 44566}
+
+
+[132] page_content='. Committed Workers When you assign Workers, it is assumed that both parties have made an agreement that they will honor for at least a round (the owner of the Company offers a Wage in return for work by the Workers who were just assigned there). To signify that, whenever Workers are assigned to a Company, turn them sideways so that they are lying down. While they are like this, they are considered to be committed' metadata={'start_index': 45026}
+
+
+[133] page_content='. While they are like this, they are considered to be committed. As long as they are committed, they may not be assigned to another Company, their Wage may not be lowered and the Company cannot be sold by its owner. During the Production Phase, as soon as the Workers produce, they will return to a standing position.' metadata={'start_index': 45380}
+
+
+[134] page_content='Assigning Workers to Trade Unions Apart from the slots in available Companies on the board, you may also assign your skilled Workers to the Trade Unions found on your player board. However, in this case, there is an additional rule that needs to be followed: Before assigning a Worker to a Trade Union, you must have at least 4 other Workers working in Companies of that industry. Note that Workers assigned to Trade Unions are considered to be employed and are always committed' metadata={'start_index': 45698}
+
+
+[135] page_content='. Note that Workers assigned to Trade Unions are considered to be employed and are always committed. In other words, you cannot assign them again elsewhere. However, if at any point during the game, you no longer have 4 Workers in a Trade Union’s industry, the Worker in it is immediately moved to the Unemployed Workers area.' metadata={'start_index': 46077}
+
+
+[136] page_content='The benefit that you get from having Trade Unions is that each one of them provides you with 1 Influence during the Production Phase and 2 VP during the Scoring Phase. Note that a Worker in a Trade Union is considered to be employed but does not receive a Wage. Buy Goods & Services This action allows you to buy necessary goods and services in order to cover your basic needs.' metadata={'start_index': 46404}
+
+
+[137] page_content='When performing this action, choose a single good or service (Food, Luxury, Health, Education or Influence) and buy it from up to 2 sources that are selling it. From each source, you are allowed to buy as many tokens as your current Population. So, if you have a Population of 4, you could buy 4 Luxury from the Capitalist Class and 4 more from the Foreign Market, or you could buy 4 Health from the State and 4 more from the Middle Class.' metadata={'start_index': 46782}
+
+
+[138] page_content='Note that each source does not sell all the goods and services and those that do may not have them in the quantity you want. The following table shows an overview of what may be sold by each source.' metadata={'start_index': 47222}
+
+
+[139] page_content='FOOD LUXURY HEALTH EDUCATION INFLUENCE Capitalist Class      Middle Class      Foreign Market      State * *    * possible only under certain circumstances The price of each good or service is listed on its source. The Capitalist Class and the Middle Class have their prices listed on their player boards (and they may change them during their turn with a Free Action)' metadata={'start_index': 47421}
+
+
+[140] page_content='. The Foreign Market’s prices are listed on the bottom of the Import area on the main board but they are affected by the Foreign Trade Policy (Policy 6) which may add tariffs to those prices, paid to the State. The State’s prices are determined by Welfare State: Health and Benefits (Policy 4) and Welfare State: Education (Policy 5). If the State ends up in possession of Companies producing goods (Food or Luxury), their prices are listed in the State’s player board (these are fixed)' metadata={'start_index': 47807}
+
+
+[141] page_content='. The price for the Influence sold by the State is also fixed and is listed on the board.' metadata={'start_index': 48293}
+
+
+[142] page_content='The resources you buy are placed in the Goods & Services area of your player board. Strike With this action you can pressure the other 2 Classes to increase their Wages, but at the risk of not getting paid at all. When you perform a Strike, place a Strike token on up to 2 Companies where your Workers work. You may not choose Companies with committed Workers nor Companies with Level 3 Wages. Public Companies can only be chosen if Example: Jim wants to buy some Health' metadata={'start_index': 48383}
+
+
+[143] page_content='. Public Companies can only be chosen if Example: Jim wants to buy some Health. His Population is 5 so he can buy up to 5 Health from each source. There are 6 available Health tokens in the Public Services area so he buys 5 of them at 5 each, for a total of 25 . The Capitalist Class also has Health available at 8 . Jim could buy up to 5 Health from there as well but the Capitalist Class only has 3 tokens in its Storage. Jim decides to buy all 3 of them for 24 .' metadata={'start_index': 48775}
+
+
+[144] page_content='Later in the game (with his population now at 6), Jim wants to buy Luxury from the Foreign Market. Normally, Luxury from the Foreign Market would cost 6 but Foreign Trade Policy is in section B, meaning there is a tariff of +3 imposed on every Luxury. Jim spends 36 (for the main cost of the goods), returning them to the Supply and pays an additional 18 to the State for the tariffs. Example: Jim wants to form a Trade Union in the Agricultural Industry' metadata={'start_index': 49241}
+
+
+[145] page_content='. Example: Jim wants to form a Trade Union in the Agricultural Industry. At the moment, he only has 2 Workers working in a Capitalist Class Agricultural Company but there are 2 more Middle Class Companies where he could go. Since he has 3 available Workers and one of them is specialized in this industry, he performs the Assign Workers action. He first places the 2 unskilled Workers in the 2 Middle Class Companies. He now has 4 Workers working in the Agricultural Industry' metadata={'start_index': 49624}
+
+
+[146] page_content='. He now has 4 Workers working in the Agricultural Industry. This allows him to form a Trade Union so, for his third assignment, he places the green Worker on the corresponding Trade Union slot of his board.' metadata={'start_index': 50040}
+
+
+[147] page_content='Later in the game, Claire (Middle Class) decides to sell her Company and moves Jim’s Worker to the Unemployed Workers area. Jim now only has 3 Workers working in the Agricultural industry. This means that the Agricultural Trade Union is dismantled and the green Worker there is also returned to the Unemployed Workers area.
+HEGEMONY: HOW TO PLAY - WORKING CLASS 16 the State is controlled by a player (in other words, in 4-player games only). Each Company can only have 1 Strike token on it.' metadata={'start_index': 50248}
+
+
+[148] page_content='At the start of the Production Phase, discard the Strike token from all Companies with Level 3 Wages. Then, for each operational Company that still has a Strike token (because their Wages are still Level 1 or 2), skip that Company’s Production this turn (no resources are produced and no Wage is paid) and gain 1 Influence. Then discard all Strike tokens' metadata={'start_index': 50740}
+
+
+[149] page_content='. Then discard all Strike tokens. If a Strike token is placed in a Middle Class Company with a Working Class employee, only the production bonus that corresponds to that Worker is skipped. The production that corresponds to the Middle Class Worker happens as normal. Note that a Company with a Strike token cannot produce in any way. This includes actions that allow Companies to produce during the Action phase (for example, the Action card Extra Shift)' metadata={'start_index': 51062}
+
+
+[150] page_content='. These actions cannot be played on Companies with Strike tokens. However, the Middle Class's Extra Shift Basic Action can be played on a Company but only the Middle Class Worker there will produce. Also, if a Company with a Strike token becomes non-operational (the Workers get assigned elsewhere), the Strike token is removed. Demonstration With this action you can pressure the other players to build more Companies and open job positions for you' metadata={'start_index': 51516}
+
+
+[151] page_content='. You can only take this action if the number of your unemployed Workers is higher than the number of available Worker slots for your Class (regardless of skill) by at least 2. If this criteria is met, performing this action allows you to place the Demonstration token in the unemployed Workers area. After anyone builds a new Company and assigns your Workers there, if the Demonstration condition is also no longer met (all three need to occur), the token is discarded and nothing further happens' metadata={'start_index': 51965}
+
+
+[152] page_content='. If the Demonstration token remains until the Production Phase, discard it, get 1 Influence and the other players lose, in total, VP equal to the number of unemployed Workers you have plus your Trade Unions. You choose how many VP each of the other players loses but note that they cannot lose more VP than the number of empty spaces on their part of the board (spaces without built Companies - this includes face-down Public Companies for the State)' metadata={'start_index': 52462}
+
+
+[153] page_content='. Apply Political Pressure With this action you try to increase your political power and improve your odds at the next elections. When you Apply Political Pressure, add 3 of your Voting cubes to the bag. Free Actions Below you can see the Free action that you may perform on your turn. Note that some of your Free Actions increase your Prosperity' metadata={'start_index': 52913}
+
+
+[154] page_content='. Note that some of your Free Actions increase your Prosperity. These are very important actions because your Prosperity is your main source of VP: Every time you gain 1 Prosperity, move your Prosperity marker 1 space forward and gain VP equal to the new Prosperity value. Use Healthcare This action allows you to provide the Health you have already bought to your people: Spend Health (that you have in the Goods & Services area of your player board) equal to your Population' metadata={'start_index': 53197}
+
+
+[155] page_content='. Then, gain 1 Prosperity, 2 bonus VP and add a new unskilled Worker (gray) to the Unemployed Workers area. Make sure to also mark the increase in Workers on the Population track on your player board. Use Education This action allows you to provide Education you have already bought to your people: Spend Education (that you have in the Goods & Services area of your player board) equal to your Population' metadata={'start_index': 53673}
+
+
+[156] page_content='. Then, gain 1 Prosperity and upgrade one of your Workers to a skilled one: replace one of your Workers (from anywhere on the board – they may even be working in a Company) with a colored Worker of your choice from the Supply. Note that if you upgrade a committed Worker, the new skilled Worker in its place remains committed as well.' metadata={'start_index': 54078}
+
+
+[157] page_content='Usually, you will want to upgrade unskilled Workers but, if needed, you may upgrade a skilled Worker to another industry, as long as it’s not on a skilled Worker slot. Use Luxury This action allows you to provide entertainment to your people through the use of luxury items: Spend Luxury (that you have in the Goods & Services area of your player board) equal to your Population. Then, gain 1 Prosperity.' metadata={'start_index': 54413}
+
+
+[158] page_content='Example: On his next turn Jim ends up buying 4 Education. He already had 1 from a previous round which means he now has enough to Use Education. He performs the Free Action, spending the 5 Education tokens and moving the Prosperity marker one more space forward. The new Prosperity value is 6 so he gains 6 more VP. He then replaces the gray Worker he got in the previous turn with a skilled purple one. Example: Jim just used his Main Action to buy 8 Health' metadata={'start_index': 54818}
+
+
+[159] page_content='. Example: Jim just used his Main Action to buy 8 Health. As his Free Action, he decides to spend it with Use Healthcare. He has a Population of 5 which means that he must spend 5 Health to perform the action. He does so and then moves his Prosperity marker one space to the right. The new position shows the number 5 so he gains 5 VP' metadata={'start_index': 55220}
+
+
+[160] page_content='. The new position shows the number 5 so he gains 5 VP. He also gains 2 more VP from the action’s effect, and then adds a gray Worker in the Unemployed Workers area (adjusting the number of Workers on his board accordingly). Example: In a 2-player game, the Public Sector just got smaller and as a result, 4 of Jim’s Workers were placed in the Unemployed Workers area. With the one that was already there, Jim now has 5 unemployed Workers in total' metadata={'start_index': 55500}
+
+
+[161] page_content='. With the one that was already there, Jim now has 5 unemployed Workers in total. On the board, there is only one non-operational Company at the moment, controlled by the Capitalist Class, and it requires 2 Workers. Since the condition is met, Jim decides to perform a Demonstration, placing its token in the Unemployed Workers area. He already has 2 Trade Unions so he knows that if Mike (Capitalist Class), who has only 5 Companies at the moment, does not do something about it, he will lose 7 VP.' metadata={'start_index': 55867}
+
+
+[162] page_content='Mike does not want to lose those VP when the Production Phase comes so he builds a Company on his next turn with 3 slots, assigning 3 of Jim’s Workers to it. He then discards the Demonstration token.
+If the same situation had occurred but Mike already had 8 Companies built and did not want to build another one, he would only lose 4 VP, equal to the number of spaces on his part of the board without Companies.' metadata={'start_index': 56367}
+
+
+[163] page_content='HEGEMONY: HOW TO PLAY - WORKING CLASS 17 Swap Workers With this action you can slightly reorganize your Workers so that skilled Workers can more easily find a job in their field. When you perform this action, swap an employed skilled Worker that is currently in an unskilled slot with another Worker in the Unemployed Workers area. For example, you can swap a white Worker that works in an Agricultural Company with a gray one in the Unemployed Workers area' metadata={'start_index': 56779}
+
+
+[164] page_content='. You may repeat that as many times as you need.' metadata={'start_index': 57236}
+
+
+[165] page_content='You may swap a Worker even though they may be committed. In this case, the new Worker that will take its place will also be committed, while the previous Worker, now in the Unemployed Workers area, will be available to go to another Company if needed. Receive Benefits (only available in 4-player games) With this action you get the benefits that the State player has placed for you in the appropriate State Benefits area. If you get any Voting cubes, they are immediately placed inside the bag' metadata={'start_index': 57285}
+
+
+[166] page_content='. If you get any Voting cubes, they are immediately placed inside the bag. Note that whenever you perform this action, the State gains 1 VP. Pay Off Loan This action allows you to pay off a Loan you have. Spend 50 and discard the Loan.' metadata={'start_index': 57706}
+
+
+[167] page_content='Production Phase Produce Goods & Services During this step you get paid for your Workers in other players’ Companies. If you have any Cooperative Farms, they produce 2 Food each. You also get 1 Influence for each Trade Union you have. After all the Companies have produced, return all of your committed Workers to a standing position - they are no longer committed. Cover Needs In this step you must buy Food equal to your Population, from any combination of sources' metadata={'start_index': 57942}
+
+
+[168] page_content='. If you already have any Food (for example produced by a Cooperative Farm or provided earlier by the State), you have to use that first and you only need to buy the rest. Getting enough Food for all of your Population is mandatory. If no other player has Food for sale (or if you don't want to buy from them), you must buy it from the Foreign Market. In the rare case where you don’t have enough money to buy all the Food you need, you must take a Loan (see Loans).' metadata={'start_index': 58408}
+
+
+[169] page_content='Since the Food is immediately used, there’s no need to actually move any Food tokens to your player board. Just discard them as soon as they are bought. Pay Taxes In this step you pay your Income Tax to the State. This tax depends on the combination of the current Labor Market and Taxation Policies (Policies 2 and 3). It consists of an amount that you need to pay per Population' metadata={'start_index': 58875}
+
+
+[170] page_content='. It consists of an amount that you need to pay per Population. Consult the following table to find that exact amount: Scoring Phase In this phase you score VP based on your Trade Unions. For each Trade Union you have, gain 2 VP.' metadata={'start_index': 59193}
+
+
+[171] page_content='Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table: • Gain 1 VP for every 10 remaining on your board (up to 15 VP).' metadata={'start_index': 59423}
+
+
+[172] page_content='Socialist Policies 1 2 3 4 5 VP Example: It is Jim’s turn to pay taxes. Since the Labor Market Policy is at C and Taxation Policy is at B, he will have to pay 2 per Population. His Population is 5 which means he pays a total of 10 for taxes.' metadata={'start_index': 59702}
+
+
+[173] page_content='INCOME TAX TAXATION POLICY 3A 3B 3C LABOR MARKET POLICY 2A 7 6 5 2B 4 4 4 2C 1 2 3 4 8 12 18 1 HEGEMONY: HOW TO PLAY - CAPITALIST CLASS 18 Overview Your goal as the Capitalist Class is to maximize your profit. You build Companies and you strike business deals in order to produce goods and services, which you then sell for profit. You constantly try to increase what you gain, while minimizing your expenses.' metadata={'start_index': 59944}
+
+
+[174] page_content='General Note: Revenue & Capital Your player board has 2 areas on it to store money. The first one is called the Revenue and the other one is the Capital. Revenue represents the money that you have gained from all recent financial activities and which have not been taxed yet. Capital represents the money that you already have and which has been properly taxed in the past. Whenever you gain money, unless stated otherwise, it goes to your Revenue' metadata={'start_index': 60354}
+
+
+[175] page_content='. Whenever you gain money, unless stated otherwise, it goes to your Revenue. Similarly, whenever you have to spend money, unless stated otherwise, you must spend it from your Revenue. When paying for a cost from Revenue, if there is not enough money in it, spend as much as you can and cover the rest from your Capital. Likewise, if an effect specifically states that an amount needs to be paid from Capital and not enough money is there, the rest is paid from Revenue' metadata={'start_index': 60726}
+
+
+[176] page_content='. In either case, if there is not enough money in both Revenue and Capital, you must take a Loan, adding 50 to your Capital (see Loans for more details on that).' metadata={'start_index': 61194}
+
+
+[177] page_content='Preparation Phase During the Preparation Phase, perform the following steps in order: Pay Interest on Loans For every Loan that you have, you must pay 5 as interest. Draw Action Cards Draw 5 Action cards from your deck (so that you have a total of 7 in your hand). These are kept secret from the other players. Reveal New Companies Discard any number of Companies from your Market and then draw new ones until you have 4' metadata={'start_index': 61356}
+
+
+[178] page_content='. Draw Business Deal & Export Cards Check the Foreign Trade Policy (Policy 6) in the Politics Table. Discard any Business Deal cards on the board and add a number of new ones according to the current policy: 1 Business Deal if the current policy is in section B and 2 if it is on section C. Then discard the current Export card and draw a new one in its place. Note that this step should be completed before the other 2 Classes receive new Workers.' metadata={'start_index': 61776}
+
+
+[179] page_content='Action Phase Basic Actions The Basic actions you may perform on your turn are the following: Propose Bill By performing this action, you express your desire to change one of the policies that are currently in effect, into a new one that will better suit your needs. To Propose a Bill, take one of your Bill markers and place it on a policy you want to change, on a section next to the one that is currently in effect. This is the policy that you propose to come into effect' metadata={'start_index': 62225}
+
+
+[180] page_content='. This is the policy that you propose to come into effect. You cannot choose a section that is not right next to the current one. For example, if Taxation is at section A, you cannot place your marker on section C. In addition, you are not allowed to Propose a Bill for a Policy which already has a player’s marker on it. If, for example, Labor Market is at section B and another player has already Proposed a Bill for section C, you are not allowed to Propose a Bill for section A' metadata={'start_index': 62641}
+
+
+[181] page_content='. Normally, after you Propose a Bill, nothing further happens at this point. All the Proposed Bills will have their outcome determined later in the round, during the Elections Phase. However, you have the option, right after you Propose a Bill, of calling for an Immediate Vote by spending 1 Influence' metadata={'start_index': 63122}
+
+
+[182] page_content='. If you do, elections are carried out immediately for this particular policy and the Bill you proposed (see the “Carry Out Elections” step in the Elections Phase for more details on how to carry out an election). If your proposal wins, immediately move the policy marker to the section you proposed and score points as normal - the new policy is now in effect. If your proposal loses, leave the policy marker where it is. In both cases, return your marker in front of you after the vote' metadata={'start_index': 63423}
+
+
+[183] page_content='. In both cases, return your marker in front of you after the vote. You have a total of 3 markers which means that, unless you call for Immediate Votes (In which case the marker returns in front of you after the election), you cannot Propose more than 3 Bills in a round. Build Company With this action you can build Companies that will allow you to produce goods and services that you will sell afterwards for profit.' metadata={'start_index': 63844}
+
+
+[184] page_content='To perform this action, choose a Company in the Market, pay its cost (from your Revenue), take its card and place it in the Capitalist Class section of the Private Sector. Then, place a marker on the Wage of your choice, abiding to Labor Market (Policy 2) which sets the CAPITALIST CLASS Example: Mike wants to build a new Company' metadata={'start_index': 64263}
+
+
+[185] page_content='. The ones available in his Market are these: While not necessary, he also looks at the Unemployed Workers area before deciding what to build since he would love for his new Company to become operational right away.' metadata={'start_index': 64593}
+
+
+[186] page_content='He has a lot of options on what to do since there are available Workers for 3 of the 4 Companies. In the end, he decides to build the Institute of Technology. He pays 20 to the Supply, takes the Institute of Technology and places it on the main board in the Capitalist Class section. He then assigns 3 of the unemployed Workers to it. He takes the orange one and the gray one that match 2 of the slots in his Company' metadata={'start_index': 64809}
+
+
+[187] page_content='. He takes the orange one and the gray one that match 2 of the slots in his Company. For the third slot, since there is no other gray Worker belonging to the Working Class (and he cannot take the gray Middle Class Worker – all Workers must be from the same Class), he takes the purple Worker.' metadata={'start_index': 65142}
+
+
+[188] page_content='HEGEMONY: HOW TO PLAY - CAPITALIST CLASS 19 minimum allowable Wage. If there are Workers in the Unemployed Workers area (from the same Class – either all Working Class or all Middle Class) who could fill all the slots in your Company, you may assign them there and commit them. When doing so, note that, for slots in your Company requiring unskilled Workers, you must choose unskilled Workers if able' metadata={'start_index': 65435}
+
+
+[189] page_content='. Only if there are not enough unskilled Workers available are you allowed to use skilled Workers to cover those slots. You may have up to 12 Companies. If all of the 12 Company slots have been filled, you may not build any more Companies – you will first have to sell one of the existing ones. Similarly, if there are no cards left in the Market (for example if you’ve already built 4 Companies in this round) you cannot perform this action until the next round' metadata={'start_index': 65835}
+
+
+[190] page_content='. Sell Company This action allows you to sell one of your Companies if you no longer want to operate it.' metadata={'start_index': 66297}
+
+
+[191] page_content='To perform this action, choose one of your Companies and discard it. Any Workers on that Company go immediately to the Unemployed Workers area. Then, gain money (in your Revenue) equal to the Company’s cost. Note that you cannot sell a Company that has committed Workers. Sell to the Foreign Market This action allows you to sell goods and services to the Foreign Market.' metadata={'start_index': 66402}
+
+
+[192] page_content='When you Sell to the Foreign Market, check the current Export card on the board. You may perform any number of transactions from those listed there, but each of those transactions may only be performed once during each action. For each transaction, spend the listed good/service amount and gain the corresponding money from the Supply.' metadata={'start_index': 66774}
+
+
+[193] page_content='Export cards never include any Influence on them. All the Influence you produce is for your own use only and you may not sell it. Make Business Deal With this action you can buy large quantities of Food and Luxury from the Foreign Market at lower prices. To perform this action, choose one of the available Business Deals on the board, pay the listed goods’ cost and add them to your Storages. Then discard the Business Deal card (do not draw a card to replace it)' metadata={'start_index': 67110}
+
+
+[194] page_content='. Then discard the Business Deal card (do not draw a card to replace it). The cost of the goods depends on whether you want to store those goods in your regular Storages or in the Free Trade Zone: • If you want to store any of them in your regular Storages, you will be allowed to sell them in the local market (the other players) but you will have to pay tariffs to the State in addition to the main cost' metadata={'start_index': 67502}
+
+
+[195] page_content='. Those tariffs depend on the current Foreign Trade Policy (Policy 6) and are listed on the Business Deal card. • If you want to store them solely in the Free Trade Zone, you pay only the main cost listed on the Business Deal card (without any Import fees and regardless of Policy 6) but those goods can only be later sold to the Foreign Market – you cannot sell them to the other players' metadata={'start_index': 67908}
+
+
+[196] page_content='. Note that if there is not enough space in your Free Trade Zone for all the resources from the Business Deal, all excess goods are lost. Lobby With this action, you broaden your sphere of influence through lobbying. To perform this action, spend 30 from your Capital and gain 3 Influence. Apply Political Pressure With this action you try to increase your political power and improve your odds at the next elections. When you Apply Political Pressure, add 3 of your Voting cubes to the bag' metadata={'start_index': 68297}
+
+
+[197] page_content='. When you Apply Political Pressure, add 3 of your Voting cubes to the bag. Free Actions The Free actions you may perform on your turn are the following: Adjust Prices This action allows you to change the prices at which you sell your goods and services to the local market by moving their markers on your board. Adjust Wages This action allows you to change the Wages that you offer in your Companies. For every Company in which you want to change the Wage offered, move its marker to its new level' metadata={'start_index': 68713}
+
+
+[198] page_content='. For every Company in which you want to change the Wage offered, move its marker to its new level. If your change is to raise the Wages, you also commit the Workers afterwards. Note that you must always abide to Labor Market (Policy 2) which sets the minimum allowable Wage. Also, you may not lower the Wage in a Company that has committed Workers (see Committed Workers in Working Class and Middle Class sections)' metadata={'start_index': 69114}
+
+
+[199] page_content='. Give Bonus With this action you can offer a monetary bonus to some of your employees to ensure that they continue to work for you: Choose one of your operational Companies and give 5 to the player who controls the Workers there. Then commit those Workers. Buy Storage This action allows you to expand your storage capacity. When performing it, spend 20 , get a Storage tile and choose one of the resources that you produce' metadata={'start_index': 69529}
+
+
+[200] page_content='. When performing it, spend 20 , get a Storage tile and choose one of the resources that you produce. Place the Storage tile next to your player board, directly beneath the existing Storage of the resource you chose. This new Storage may only store resources of that type, at the quantity listed on it. Note also that for each resource you may only buy one Storage.' metadata={'start_index': 69853}
+
+
+[201] page_content='Example: Mike is looking to increase his Revenue and the best way to do it is by selling the goods and services in his Storages. He performs the action Sell to the Foreign Market and looks at the current Export card. He has 4 Food, 12 Luxury and 11 Education in his Storages. He starts by selling 3 Food for 25 . The 4th one he has, remains in his Storage since he can’t sell it on its own. He then proceeds with the Luxury' metadata={'start_index': 70219}
+
+
+[202] page_content='. He then proceeds with the Luxury. Having 12 Luxury tokens allows him to do both transactions shown on the card. He gives the first 4 Luxury for 25 and the next 8 for 45 more. Finally, he sells his Education. Once again, he is able to do both transactions – the first 3 Education get him 20 and the next 5 give him 35 . He is left with 3 Education in his Storage and he would love to sell them as well for an additional 20' metadata={'start_index': 70608}
+
+
+[203] page_content='. However, he can’t do that since each transaction can only be performed once in each action.' metadata={'start_index': 71032}
+
+
+[204] page_content='In total, Mike gains 150 from 5 transactions.' metadata={'start_index': 71126}
+
+
+[205] page_content='HEGEMONY: HOW TO PLAY - CAPITALIST CLASS 20 Receive Benefits (only available in 4-player games) With this action you get the benefits that the State player has placed for you in the appropriate State Benefits area. If you get any Voting cubes, they are immediately placed inside the bag. Note that whenever you perform this action, the State gains 1 VP. Pay Off Loan This action allows you to pay off a Loan you have. Spend 50 from your Capital and discard the Loan.' metadata={'start_index': 71172}
+
+
+[206] page_content='Production Phase Produce Goods & Services During this step your Companies get to produce. Pay the Wages corresponding to each of your Companies and get the listed amounts of goods and services. Note that the Wage listed in each Company corresponds to all the Workers working there - you don't pay that amount to each Worker separately.' metadata={'start_index': 71639}
+
+
+[207] page_content='The resources you produce are placed in the Storages on your player board. Each of them can hold up to a specific number of tokens, as listed on its bottom (8 for the Food and 12 for the other ones). You may never exceed the limit in your Storages. If you produce more resources than what you have space for, all excess resources are lost. However, there is an exception when it comes to Food and Luxury' metadata={'start_index': 71975}
+
+
+[208] page_content='. However, there is an exception when it comes to Food and Luxury. In their case, the excess resources can be stored in the Free Trade Zone tile (you start the game with it), assuming there is available space there. However, resources in a Free Trade Zone cannot be sold to the local market (the other players) but only to the Foreign Market. Cover Needs During this step, players may buy Food from you to cover their needs. The money you get from these transactions is always placed in your Revenue' metadata={'start_index': 72313}
+
+
+[209] page_content='. The money you get from these transactions is always placed in your Revenue. Pay Taxes In this step you pay your taxes to the State. You also get to score VP afterwards, depending on the money you have accumulated. You pay 2 different types of tax in this step. The first is the Employment Tax which depends on the number of Companies that you own, and the other one is the Corporate Tax which is based on the profit you made from your business activities' metadata={'start_index': 72736}
+
+
+[210] page_content='. Employment Tax This tax depends on the number of operational Companies you own and the current Tax Multiplier (see Politics Table: Taxation to see how its value is determined). The amount you need to pay is equal to the product of the two numbers (multiply them). Note that automated Companies (those that produce but without having any Workers on them) do count as operational Companies. However, regular Companies with no Workers on them are not considered operational and thus do not count.' metadata={'start_index': 73192}
+
+
+[211] page_content='Corporate Tax This tax depends on your profits from the current round’s business activities. This is indicated by the money remaining on the Revenue area of your player board (after you pay the Employment Tax). For the exact amount you will have to pay, which also depends on the current Taxation Policy (Policy 3), you can consult the following table: Machinery Tokens Some Action cards allow the Capitalist Class to get Machinery tokens' metadata={'start_index': 73688}
+
+
+[212] page_content='. These allow the Capitalist Class to increase production without having to pay additional Wages.' metadata={'start_index': 74126}
+
+
+[213] page_content='Whenever the Capitalist Class gets a Machinery token, it must be placed on one of their Companies. It can only be placed on a Company that shows the Machinery icon and it increases the production by the number shown next to that icon. Only one Machinery token can be placed on a Company - if an effect provides you with more than one, they have to be placed on different Companies. In case there is no eligible Company to place a Machinery token, it is lost' metadata={'start_index': 74224}
+
+
+[214] page_content='. In case there is no eligible Company to place a Machinery token, it is lost. A Company with a Machinery token on it is not considered to be automated. If it is left without Workers, the Company becomes non-operational and it will not produce any goods or services during the Production Phase (contrary to automated Companies that always produce, without the need of Workers).' metadata={'start_index': 74604}
+
+
+[215] page_content='Example: Mike needs to pay his taxes so he starts with the Employment Tax. He has 8 Companies in the Capitalist Class area but only 7 of them are operational. Since the Tax Multiplier is at 6, his Employment Tax is 7x6 = 42 .
+Example: Mike continues with his taxes and must now pay his Corporate Tax. He checks his Revenue and sees that it has 81 in it. The Taxation Policy is currently in section A which means that the amount he needs to pay is 24 .' metadata={'start_index': 74982}
+
+
+[216] page_content='CORPORATE TAX TAXATION POLICY A B C REVENUE 5-9 1 2 2 10-24 5 5 4 25-49 12 10 7 50-99 24 15 10 100-199 40 30 20 200-299 100 70 40 300+ 160 120 60 HEGEMONY: HOW TO PLAY - CAPITALIST CLASS 21 Scoring Phase In this phase you get to score VP based on the money you’ve made. First, transfer all the money in your Revenue to your Capital. Then, count the money in your Capital and gain VP based on that amount, according to the Wealth table on your player board' metadata={'start_index': 75434}
+
+
+[217] page_content='. Additionally, if the Wealth marker is to the left of your current Capital level, move it to the right, gaining 3 VP for each space it moves.' metadata={'start_index': 75889}
+
+
+[218] page_content='Note: if you have less Capital in a future round, the marker does not move to the left and no VP are lost. You will still gain the VP from your Capital, but no bonuses are scored for moving the marker.' metadata={'start_index': 76032}
+
+
+[219] page_content='Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Neoliberal Policies (section C), you gain VP as shown in the following table: • Gain 1 VP for every 2 / 3 / 3 / 3 in your Storages (including those in the Free Trade Zone).
+You also lose 5 VP for each Loan you still have.' metadata={'start_index': 76234}
+
+
+[220] page_content='You also lose 5 VP for each Loan you still have.
+Example: During the game’s 1st round, after paying taxes and transferring his Revenue to his Capital, Mike has 57 . Checking his Wealth table he sees that this amount corresponds to 3 VP. Since it is the first time he scores, the Wealth marker must move 3 times to reach that space, meaning he gets 9 more VP (3 for each space he moved it) for a total of 12 VP.' metadata={'start_index': 76545}
+
+
+[221] page_content='Next round, when it’s time to score, his Capital contains 34 so he scores 2 VP as shown in the Wealth table. Since this amount corresponds to a space on the left of its current position, the Wealth marker does not move and no bonus VP are given. In the third round, Mike gets to score with 166 in his Capital and according to the Wealth table this corresponds to 7 VP. On top of that, the Wealth marker moves 4 spaces which corresponds to another 12 VP for him. In total, he gains 19 VP this round' metadata={'start_index': 76956}
+
+
+[222] page_content='. In total, he gains 19 VP this round. Neoliberal Policies 1 2 3 4 5 VP 4 8 12 18 1 HEGEMONY: HOW TO PLAY - MIDDLE CLASS 22 Overview Your goal as the Middle Class is to increase your people’s Prosperity by covering their basic needs (Food, Health, Education and Entertainment), while also running your own Companies successfully. To do that you will have to find the right balance between producing, selling and consuming' metadata={'start_index': 77416}
+
+
+[223] page_content='. To do that you will have to find the right balance between producing, selling and consuming. Preparation Phase During the Preparation Phase, perform the following steps in order: Pay Interest on Loans For every Loan that you have, you must pay 5 as interest. Drop Prosperity Reduce your Prosperity by 2 spaces. If it’s already in the first space of the track (space 0) it stays where it is and nothing further happens' metadata={'start_index': 77744}
+
+
+[224] page_content='. Note that while you gain VP when you increase Prosperity (see your Free Actions below), you do not lose any VP when Prosperity is reduced. Draw Action Cards Draws 5 Action cards from your deck (so that you have a total of 7 in your hand). These are kept secret from the other players. Reveal New Companies Discard any number of Companies from your Market and then draw new ones until you have 3' metadata={'start_index': 78163}
+
+
+[225] page_content='. Get New Workers and Adjust Population Add an unskilled (gray) Worker and a skilled Worker of your choice in the Unemployed Workers area (you can wait until after the Capitalist Class has revealed its own new Companies). Then, check the Immigration Policy in the Politics Table (Policy 7). If the current policy in effect is B or C, you need to place additional Workers in the Unemployed Workers area. Their type (skilled or unskilled) is determined by the Immigration cards' metadata={'start_index': 78559}
+
+
+[226] page_content='. Their type (skilled or unskilled) is determined by the Immigration cards. Reveal a number of Immigration cards as dictated by the current policy (1 card if Immigration is in section B, 2 cards if it is in section C). Add to the Unemployed Workers area the Middle Class Worker shown in each of the revealed cards (ignore the Worker of the Working Class). Then, put the revealed cards at the bottom of the Immigration deck.' metadata={'start_index': 78960}
+
+
+[227] page_content='Please note that even though the Working Class does the same process and every card shows Workers from both Classes, each Class should draw its own card(s) from the Immigration deck, separately from the other. After adding the new Workers, you must adjust the marker in your Population track accordingly by moving it as many spaces forward as the total number of new Workers added (either 2, 3 or 4).' metadata={'start_index': 79384}
+
+
+[228] page_content='Action Phase Basic Actions The Basic actions you may perform on your turn are the following: Propose Bill By performing this action, you express your desire to change one of the policies that are currently in effect, into a new one that will better suit your needs. To Propose a Bill, take one of your Bill markers and place it on a policy you want to change, on a section next to the one that is currently in effect. This is the policy that you propose to come into effect' metadata={'start_index': 79785}
+
+
+[229] page_content='. This is the policy that you propose to come into effect. You cannot choose a section that is not right next to the current one. For example, if Taxation is at section A, you cannot place your marker on section C. In addition, you are not allowed to Propose a Bill for a Policy which already has a player’s marker on it. If, for example, Labor Market is at section B and another player has already Proposed a Bill for section C, you are not allowed to Propose a Bill for section A' metadata={'start_index': 80201}
+
+
+[230] page_content='. Normally, after you Propose a Bill, nothing further happens at this point. All the Proposed Bills will have their outcome determined later in the round, during the Elections Phase. However, you have the option, right after you Propose a Bill, of calling for an Immediate Vote by spending 1 Influence' metadata={'start_index': 80682}
+
+
+[231] page_content='. If you do, elections are carried out immediately for this particular policy and the Bill you proposed (see the “Carry Out Elections” step in the Elections Phase for more details on how to carry out an election). If your proposal wins, immediately move the policy marker to the section you proposed and score points as normal - the new policy is now in effect. If your proposal loses, leave the policy marker where it is. In both cases, return your marker in front of you after the vote.' metadata={'start_index': 80983}
+
+
+[232] page_content='You have a total of 3 markers which means that, unless you call for Immediate Votes (In which case the marker returns in front of you after the election), you cannot Propose more than 3 Bills in a round. Assign Workers With this action you find jobs for your Workers, assigning them to work on available Companies. When you Assign Workers, choose up to 3 of your Workers on the board and place them on the corresponding slots of available Companies' metadata={'start_index': 81472}
+
+
+[233] page_content='. The following rules apply: • You may take Workers from anywhere on the board. This includes the Unemployed Workers area as well as other Companies where your Workers already work (unless they are committed – see below for details), including from your own Companies.' metadata={'start_index': 81920}
+
+
+[234] page_content='• A Company can either have all of the required Workers on it (and be operational) or none at all (and be non-operational). This means that you cannot assign a single Worker to a Company with 2 or 3 available slots. If you can’t fill all the slots, you simply cannot assign your Worker(s) there' metadata={'start_index': 82190}
+
+
+[235] page_content='. If you can’t fill all the slots, you simply cannot assign your Worker(s) there. Similarly, if you take a Worker from a Company and assign it somewhere else, the remaining Workers in that initial Company cannot remain there MIDDLE CLASS Whenever an effect of yours mentions Workers, unless stated otherwise, it refers to Workers of your own Class only. Also, your Population track should at all times correspond to the actual number of Workers you have' metadata={'start_index': 82405}
+
+
+[236] page_content='. Whenever you get or lose Workers, adjust the marker there accordingly.' metadata={'start_index': 82858}
+
+
+[237] page_content='Example: A new round starts in the game and the current Immigration policy is B. Claire plays as the Middle Class and, after looking at the new Companies in her Market that she revealed this round, adds a blue Worker to the Unemployed Workers area. She then draws 1 Immigration card. The Middle Class Worker depicted in the card she drew is unskilled so she adds a gray Worker to the Unemployed Workers area.' metadata={'start_index': 82931}
+
+
+[238] page_content='HEGEMONY: HOW TO PLAY - MIDDLE CLASS 23 since not all the slots are now filled, so they are moved immediately to the Unemployed Workers area. (Note that this is checked after the whole action has been performed. This means that you are allowed to take a Worker from a Company, assign it to another Company, and then assign a different Worker to the initial Company – assuming it is allowed by the slot – to cover the position that was emptied). • Some slots require skilled Workers' metadata={'start_index': 83340}
+
+
+[239] page_content='. • Some slots require skilled Workers. Only skilled Workers of that industry (meeples of the appropriate color) can be placed on those slots. The rest of the slots are for unskilled Workers, but any Worker may be placed on them, regardless of whether they are specialized or not and in which industry' metadata={'start_index': 83783}
+
+
+[240] page_content='. Committed Workers When you assign Workers, it is assumed that both parties have made an agreement that they will honor for at least a round (the owner of the Company offers a Wage in return for work by the Workers who were just assigned there). To signify that, whenever Workers are assigned to a Company, turn them sideways so that they are lying down. While they are like this, they are considered to be committed' metadata={'start_index': 84085}
+
+
+[241] page_content='. While they are like this, they are considered to be committed. As long as they are committed, they may not be assigned to another Company, their Wage may not be lowered and the Company cannot be sold by its owner. During the Production Phase, as soon as the Workers produce, they will return to a standing position.' metadata={'start_index': 84439}
+
+
+[242] page_content='Ιf you assign a Worker running one of your Companies somewhere else, the Company becomes non-operational. If it had an employee (a Working Class meeple) it immediately goes to the Unemployed Workers area. Build Company With this action you can build small Companies that will be run by your Workers. To perform this action, choose a Company in the Market for which you have the required Middle Class Workers' metadata={'start_index': 84757}
+
+
+[243] page_content='. These Workers can either be in the Unemployed Workers area or they can be already working in some other Company, as long as they are not committed. There are 2 different types of Companies you can build. Those that are run by a single Middle Class Worker (but may have a Working Class Worker as an employee) and those that are run by two Middle Class Workers (and have no employees)' metadata={'start_index': 85164}
+
+
+[244] page_content='. Regardless of the type of Company you need to build, only the Middle Class Workers must be available when you build it.' metadata={'start_index': 85548}
+
+
+[245] page_content='Pay the Company’s cost, take its card from the Market, and place it on the Middle Class section of the Private Sector. Then, place your Workers on the corresponding spaces, committed. If the Company has a slot for an employee, place a marker on the Wage of your choice, abiding to Labor Market (Policy 2) which sets the minimum allowable Wage' metadata={'start_index': 85670}
+
+
+[246] page_content='. Then, if there is a Working Class Worker in the Unemployed Workers area who could work in this Company as an employee, you may assign it to that slot and commit it. If that slot is for an unskilled Worker, you must choose an unskilled Worker if able. Only if there are no unskilled Workers available are you allowed to take a skilled Worker to cover the slot.' metadata={'start_index': 86012}
+
+
+[247] page_content='You may have up to 8 Companies. If all of the 8 Company slots have been filled, you may not build any more Companies – you will first have to sell one of the existing ones. Similarly, if there are no cards left in the Market (for example if you’ve already built 3 Companies in this round) you cannot perform this action until the next round. Sell Company This action allows you to sell one of your Companies if you no longer want to run it.' metadata={'start_index': 86374}
+
+
+[248] page_content='To perform this action, choose one of your Companies and discard it. Any Workers on that Company, go immediately to the Unemployed Workers area. Then, gain money equal to the Company’s cost. Note that you cannot sell a Company that has committed Workers. Sell to the Foreign Market This action allows you to sell goods and services to the Foreign Market.' metadata={'start_index': 86815}
+
+
+[249] page_content='When you Sell to the Foreign Market, check the current Export card on the board. You may perform any number of transactions from those listed there, but each of those transactions can only be performed once during each action. Also, you may NOT sell items that have already been transferred to your Goods & Services area; only those in your Storages can be sold. For each transaction, spend the listed good/service amount and gain the corresponding money from the Supply.' metadata={'start_index': 87170}
+
+
+[250] page_content='When you are finished, gain 1 VP for every transaction that you made.
+Export cards never include any Influence on them. All the Influence you produce is for your own use only and you may not sell it. Buy Goods & Services This action allows you to buy necessary goods and services in order to cover your basic needs.' metadata={'start_index': 87642}
+
+
+[251] page_content='When performing this action, choose a single good or service (Food, Luxury, Health, Education or Influence) and buy it from up to 2 sources that are selling it. From each source, you are allowed to buy as many tokens as your current Population. So, if you have a Population of 4, you could buy 4 Luxury from the Capitalist Class and 4 more from the Foreign Market. Since you have your own Companies that produce goods and services, one source from which you can "buy" them is also yourself' metadata={'start_index': 87958}
+
+
+[252] page_content='. In fact, if you want to make use of your own goods and services that you have produced (for example, to provide Health to your people that was produced in one of your Companies), you have to buy it first with this action. Example: Claire has a lot of goods and services in her Storages and wants to sell them. She performs the action Sell to the Foreign Market and looks at the current Export card. She has 4 Food, 8 Luxury and 6 Health in her Storages. She starts by selling the 3 Food for 35' metadata={'start_index': 88447}
+
+
+[253] page_content='. She has 4 Food, 8 Luxury and 6 Health in her Storages. She starts by selling the 3 Food for 35 . She would love to sell the fourth one as well, but she can only do the transactions listed on the card. She then does both of the transactions for the Luxury. In the first one she gives 2 Luxury for 10 and in the second one she gives 6 Luxury for 35 .' metadata={'start_index': 88846}
+
+
+[254] page_content='Finally, when it comes to Health, since she only has 6 tokens she cannot do both transactions. She does just the second one and sells 5 Health for 35 . Note that she couldn’t do the first transaction (3 Health for 20 ) twice to gain more money because each transaction can only be made once. In total, Claire gains 115 from her 4 transactions. She also gains 4 VP – one for each of those transactions.' metadata={'start_index': 89197}
+
+
+[255] page_content='HEGEMONY: HOW TO PLAY - MIDDLE CLASS 24 However, when buying from yourself you don’t exchange any money. Just transfer the corresponding items from your Storage to your Goods & Services area. As with the other sources from which you can buy, you are limited to the number of items you can transfer this way in a single action (up to your Population). Also, if you buy from yourself, you can only buy from one other source during the same action' metadata={'start_index': 89599}
+
+
+[256] page_content='. Also, if you buy from yourself, you can only buy from one other source during the same action. For example, you could buy 4 Health from the State and 4 from yourself, moving them from your Storage to the Goods & Services area.' metadata={'start_index': 89948}
+
+
+[257] page_content='Be aware that each source does not sell all the goods and services and those that do, may not have them in the quantity you want. The following table shows an overview of what may be sold by each source.' metadata={'start_index': 90177}
+
+
+[258] page_content='FOOD LUXURY HEALTH EDUCATION INFLUENCE Capitalist Class      Middle Class      Foreign Market      State * *    * possible only under certain circumstances The price of each good or service is listed on its source. The Capitalist Class has its prices listed on its player board (and it may change them during its turn)' metadata={'start_index': 90381}
+
+
+[259] page_content='. The Foreign Market’s prices are listed on the bottom of the Import area on the main board, but they are also affected by the Foreign Trade Policy (Policy 6) which may add tariffs to those prices, paid to the State. The State’s prices are determined by Welfare State: Health and Benefits (Policy 4) and Welfare State: Education (Policy 5). If the State ends up in possession of Companies producing goods (Food or Luxury) their prices are listed in the State’s player board (and are fixed)' metadata={'start_index': 90717}
+
+
+[260] page_content='. The price for the Influence sold by the State is also fixed and is listed on the board.' metadata={'start_index': 91206}
+
+
+[261] page_content='The resources you buy are placed in the Goods & Services area of your player board. Extra Shift With this action you push your people to work overtime, to produce more goods and services.' metadata={'start_index': 91296}
+
+
+[262] page_content='To perform an Extra Shift action, choose one of your Companies with non-committed Middle Class Worker(s). Then, commit all the Workers there and produce the corresponding goods or services. If the Company has a Working Class employee, you also have to pay its Wage. If you are unable to do so, you can’t choose that Company. If you have a Company where only the Working Class Worker is committed, you can still choose it for an Extra Shift' metadata={'start_index': 91484}
+
+
+[263] page_content='. The Working Class Worker however will not contribute at all. Do not pay its Wage and do not gain the corresponding Employee Production Bonus. Apply Political Pressure With this action you try to increase your political power and improve your odds at the next elections. When you Apply Political Pressure, add 3 of your Voting cubes to the bag. Free Actions Below you can see the Free action that you may perform on your turn. Note that some of them increase your Prosperity' metadata={'start_index': 91923}
+
+
+[264] page_content='. Note that some of them increase your Prosperity. These are very important actions because your Prosperity is your main source of VP: Every time you gain 1 Prosperity, move your Prosperity marker 1 space forward and gain VP equal to the new Prosperity value. Use Healthcare This action allows you to provide Health you have already bought to your people: Spend Health (that you have in the Goods & Services area of your player board) equal to your Population' metadata={'start_index': 92349}
+
+
+[265] page_content='. Then, gain 1 Prosperity, 2 bonus VP and add a new unskilled Worker (gray) in the Unemployed Workers area. Make sure to also mark the increase in Workers on the Population track on your player board. Use Education This action allows you to provide Education you have already bought to your people: Spend Education (that you have in the Goods & Services area of your player board) equal to your Population' metadata={'start_index': 92808}
+
+
+[266] page_content='. Then, gain 1 Prosperity and upgrade one of your Workers to a skilled one: replace one of your Workers (from anywhere on the board – they may even be working in a Company) with a colored Worker of your choice from the Supply. Note that if you upgrade a committed Worker, the new skilled Worker in its place remains committed as well. Usually, you will want to upgrade unskilled Workers but, if needed, you may upgrade an unemployed skilled Worker to another industry' metadata={'start_index': 93213}
+
+
+[267] page_content='. Use Luxury This action allows you to provide entertainment to your people through the use of luxury items: Spend Luxury (that you have in the Goods & Services area of your player board) equal to your Population. Then, gain 1 Prosperity. Adjust Prices This action allows you to change the prices at which you sell your goods and services to the local market by moving their markers on your board. Adjust Wages This action allows you to change the Wages that you offer in your Companies' metadata={'start_index': 93680}
+
+
+[268] page_content='. Adjust Wages This action allows you to change the Wages that you offer in your Companies. For every Company in which you want to change the Wage offered, move its marker to its new level. If your change is to raise the Wage, you also commit the Worker afterwards. Note that you must always abide to Labor Market (Policy 2) which sets the minimum allowable Wage. Also, you may not lower the Wage in a Company with a committed Working Class Worker' metadata={'start_index': 94076}
+
+
+[269] page_content='. Also, you may not lower the Wage in a Company with a committed Working Class Worker. Swap Workers With this action you can slightly reorganize your Workers so that skilled Workers can more easily find a job in their field. When you perform this action, swap an employed skilled Worker that is currently in an unskilled slot with another Worker in the Unemployed Workers area' metadata={'start_index': 94438}
+
+
+[270] page_content='. For example, you can swap a white Worker that works in an Agricultural Company with a gray one in the Unemployed Workers area. You may repeat that as many times as you need.' metadata={'start_index': 94814}
+
+
+[271] page_content='You may swap a Worker even though they may be committed. In this case, the new Worker that will take its place will also be committed, while the previous Worker, now in the Unemployed Workers area, will be available to go to another Company if needed.' metadata={'start_index': 94990}
+
+
+[272] page_content='Example: Claire wants to buy some Health. She has a Population of 5 and she already has 1 Health in her Goods & Services area from previous actions. She also has 3 Health in her Storage which she would like to use later in the round. She performs the Buy Goods & Services and gets 5 Health from the State for the current price of 5 each. She also transfers the 3 Health from her Storage for free. She now has a total of 9 Health in her Goods & Services area' metadata={'start_index': 95242}
+
+
+[273] page_content='. She now has a total of 9 Health in her Goods & Services area. She would love to be able to buy 1 more Health from the Capitalist Class, but she already bought from 2 different sources so she cannot do that. Later in the same round she decides to buy Luxury. She already has 2 Luxury in her Storage which she buys from herself, transferring them to the Goods and Services area' metadata={'start_index': 95637}
+
+
+[274] page_content='. She wants to buy 3 more though and since the Capitalist Class doesn’t have any for sale, she goes to the Foreign Market as her second source. The normal price would be 6 for each Luxury but Foreign Trade is at section A, meaning there is an additional cost of 6 per Luxury for tariffs. Claire ends up paying 18 to the Supply for their normal cost and 18 more to the State for those tariffs' metadata={'start_index': 96014}
+
+
+[275] page_content='. Example: Claire wants to increase her Prosperity and she decides to do it by using the Use Education Free Action. She has 6 Education tokens in the Goods & Services area and her Population is 5. So, she spends 5 of those tokens and moves her Prosperity marker one space forward. The new value listed is 4 which means she gains 4 VP. She also gets to upgrade one of her Workers. She replaces a gray Worker in the Unemployed Workers area with an orange one from the Supply.' metadata={'start_index': 96405}
+
+
+[276] page_content='HEGEMONY: HOW TO PLAY - MIDDLE CLASS 25 Receive Benefits (only available in 4-player games) With this action you get the benefits that the State player has placed for you in the appropriate State Benefits area. If you get any Voting cubes, they are immediately placed inside the bag.
+Note that whenever you perform this action, the State gains 1 VP. Pay Off Loan This action allows you to pay off a Loan you have. Spend 50 and discard the Loan.' metadata={'start_index': 96879}
+
+
+[277] page_content='Production Phase Produce Goods & Services During this step your own Companies produce and you also get paid for your Workers in other players’ Companies. The Companies you own that have only Middle Class Workers on them produce the goods or services listed on them without you having to pay any Wage. However, you have to pay Wages for all the Working Class Workers in your Companies, but you also get their Employee Production Bonus' metadata={'start_index': 97324}
+
+
+[278] page_content='. Be aware that, due to the player order, you are first paid for your own Workers in other Companies, so you can use that money if needed to pay for the Working Class Workers’ Wages.' metadata={'start_index': 97757}
+
+
+[279] page_content='The goods and services you produce are placed in the Storages on your player board. Note that each of them can hold up to 8 of its corresponding resource, as listed on its bottom. Influence however, goes directly to your Goods & Services area when produced and has no limit.' metadata={'start_index': 97940}
+
+
+[280] page_content='After all players' Companies have produced, return all of your committed Workers to a standing position - they are no longer committed. Cover Needs In this step you must provide Food equal to your Population. You first use Food you already have (either in your Storage or in your Goods & Services area). If that is not enough to cover your Population, you must buy the rest from any combination of sources.' metadata={'start_index': 98215}
+
+
+[281] page_content='Getting enough Food for all of your Population is mandatory. If no other player has Food for sale (or if you don't want to buy from them), you must buy it from the Foreign Market. In the rare case where you don’t have enough money to buy all the Food you need, you must take a Loan (see Loans).' metadata={'start_index': 98622}
+
+
+[282] page_content='Since the Food is immediately used, when buying it from another source, there’s no need to actually move any Food tokens to your player board. Just discard them as soon as they are bought. Pay Taxes In this step you pay your taxes to the State. You will pay 2 different kinds of tax. One is based on your income from Companies other than your own in which you have Workers (Income Tax) and the other is based on the Companies you run yourself (Employment Tax)' metadata={'start_index': 98917}
+
+
+[283] page_content='. Income Tax This tax depends on the combination of the current Labor Market and Taxation Policies (Policies 2 and 3). You must pay this amount, times the number of Companies, other than your own, where you have Workers. Consult the following table to find that exact amount: Employment Tax This tax depends on the number of operational Companies you own and the current Tax Multiplier (see Politics Table: Taxation to see how its value is determined)' metadata={'start_index': 99376}
+
+
+[284] page_content='. The amount you need to pay is equal to the product of the two numbers (multiply them). Scoring Phase In this phase you get another chance to increase your Prosperity. If your Prosperity value is lower than the number of fully operational Companies that you have, gain 1 Prosperity for free. For a Middle Class Company to be fully operational, it needs to have 2 Workers in it. The Companies that have 2 Middle Class Workers in them are fully operational by default' metadata={'start_index': 99827}
+
+
+[285] page_content='. The Companies that have 2 Middle Class Workers in them are fully operational by default. The Companies that have a Working Class Worker slot (which is optional) must have such a Worker in them, to be fully operational. Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table' metadata={'start_index': 100204}
+
+
+[286] page_content='. Depending on the number of Policies in section B, you gain VP as shown in the following table: • Gain 1 VP for every 2 / 3 / 3 / 3 in your Storages (those in the Goods & Services area do not count).' metadata={'start_index': 100535}
+
+
+[287] page_content='• Gain 1 VP for every 15 remaining on your board. Example: It is Claire’s turn in the Pay Taxes step and she wants to calculate her Income Tax. Besides her own Companies, her Workers work in 2 Capitalist Class Companies and in 1 Public Company. Since the Labor Market Policy is at A and Taxation Policy is at C, she will have to pay 3x5 = 15 .' metadata={'start_index': 100737}
+
+
+[288] page_content='INCOME TAX TAXATION POLICY 3A 3B 3C LABOR MARKET POLICY 2A 7 6 5 2B 4 4 4 2C 1 2 3 Example: Claire paid her Income Tax and now looks at the Employment Tax. She has 6 operational Companies in the Middle Class area and the Tax Multiplier is at 5. This means her Employment Tax is 6x5 = 30 .' metadata={'start_index': 101081}
+
+
+[289] page_content='Example: During the Scoring Phase of the first round, Claire’s Prosperity is at 2 and she has a total of 3 Companies. However, only 2 of them are fully operational – the Doctor's Office does not have a Working Class Worker in it. This means she doesn’t get to increase her Prosperity.' metadata={'start_index': 101370}
+
+
+[290] page_content='In a future round, the Scoring Phase comes and she has 4 fully operational Companies with her Prosperity being at 3. As a result, she gains 1 Prosperity – she moves the Prosperity marker one space forward and gains 4 VP as a result. Section B Policies 1 2 3 4 5 VP 3 6 10 15 1 HEGEMONY: HOW TO PLAY - THE STATE 26 Overview Your goal as the State is to keep all 3 Classes happy by catering to their needs, which in turn increases your Legitimacy' metadata={'start_index': 101655}
+
+
+[291] page_content='. At the same time, you have to deal with important issues that come up, making sure to keep a balance among the other players.' metadata={'start_index': 102099}
+
+
+[292] page_content='General Notes Public Services, Goods and Influence types All of the Public Companies in the game produce services (either Health, Education or Influence). Their tokens are stored in the Public Services areas of the board which have limits equal to your production of those services, plus 6. While you don’t produce any goods (Food or Luxury) at the beginning of the game, this may change due to the effects of some Action cards' metadata={'start_index': 102227}
+
+
+[293] page_content='. You may have other players sell goods to you or you may even end up owning Companies that produce goods. In all these cases, goods will be stored on your player board, in the corresponding spaces, and will automatically be available for the other players (Working Class and Middle Class) to buy, at the listed price.' metadata={'start_index': 102654}
+
+
+[294] page_content='When it comes to Influence, there are two types of it. Influence produced by your Companies and stored in the Public Services area is considered Media Influence. Influence that you gain by other effects, goes to your player board and is considered Personal Influence. Whenever an effect asks you to use Influence, unless stated otherwise, you can only use your Personal Influence. Similarly, only Media Influence may be bought by the players – your Personal Influence cannot be sold' metadata={'start_index': 102973}
+
+
+[295] page_content='. Legitimacy Tracks & Tokens The main feature on your player board are the 3 Legitimacy tracks, each one corresponding to one of the Classes. Whenever you help another player (either through one of your actions or through actions performed by them) it leads to your Legitimacy increasing. Similarly, when you perform an action that affects one or more of the other Classes negatively, your Legitimacy score for them will fall' metadata={'start_index': 103455}
+
+
+[296] page_content='. This is usually identified by the symbols on the bottom of the Action cards. Whenever a card with those symbols is played for its effect (regardless of the player who played it), you have to change your Legitimacy accordingly. Legitimacy can also change due to an Event. Some of them list Legitimacy changes as part of their reward, while all of them reduce your Legitimacy if you don’t act upon them during the round' metadata={'start_index': 103880}
+
+
+[297] page_content='. Finally, you also gain Legitimacy when another player buys Health or Education from you for free. For every 3 of those resources that a player gets, you gain 1 Legitimacy in their Class.' metadata={'start_index': 104299}
+
+
+[298] page_content='Some effects give you a Legitimacy token instead. When that happens, immediately increase the corresponding Class’s Legitimacy score by 1 and place the token on your player board. From that point on, this token will provide a permanent bonus to that Class’s Legitimacy scores every round, during the Scoring Phase (right after all Legitimacy values are dropped to half – see below)' metadata={'start_index': 104488}
+
+
+[299] page_content='. Preparation Phase During the Preparation Phase, perform the following steps in order: Pay Interest on Loans For every Loan that you have, you must pay 5 as interest. Reveal New Events Draw 2 Event cards and place them face-up on the main board’s corresponding spaces. Reveal New Political Agenda Draw the top Political Agenda card and place it face up next to your player board so that any player can see it' metadata={'start_index': 104869}
+
+
+[300] page_content='. Draw Action Cards Draw 5 Action cards from your deck (so that you have a total of 7 in your hand). These are kept secret from the other players.' metadata={'start_index': 105278}
+
+
+[301] page_content='Action Phase During the Action Phase, the Working Class and the Middle Class may buy from you the services that you have available in the Public Services area (and in some rare cases, the goods that you have on your player board as well). Whenever this happens, give the player the corresponding resources and place the money you receive in the State Treasury area of the main board' metadata={'start_index': 105425}
+
+
+[302] page_content='. Due to Policies 4 & 5 (Welfare State: Health & Benefits and Welfare State: Education), the price at which you sell Health and Education can be lowered and it may even end up being free. When this happens, you gain some benefits: • Whenever you sell Health or Education at 5 each (due to the corresponding Policy being in section B), gain 1 VP, regardless of the amount sold.' metadata={'start_index': 105807}
+
+
+[303] page_content='• Whenever you sell Health or Education for free (due to the corresponding Policy being in section A), gain 1 Legitimacy (to the Class buying them) for every 3 resources sold. STATE Example: Claire (Middle Class) plays the card Health Crisis. This allows her to sell up to 6 Health to the State for 10 each. She only has 5 Health in her Storages so she sells all of them to the State for 50 . Anna (State), gets the resources and places them in the Public Services area' metadata={'start_index': 106185}
+
+
+[304] page_content='. Anna (State), gets the resources and places them in the Public Services area. Then, according to the instruction on the bottom of the card, she moves the Middle Class Legitimacy marker one space forward. If Claire had sold her one more Health, she would have moved it 2 spaces forward instead. Example: Claire wants to increase her Prosperity so she buys 6 Health from the Public Services. Welfare State: Health & Benefits is at section B so each Health costs 5' metadata={'start_index': 106577}
+
+
+[305] page_content='. Welfare State: Health & Benefits is at section B so each Health costs 5 . She pays Anna 30 and gets the corresponding Health tokens. Since Anna offered the Health at a lower price than normal, she also gains 1 VP.' metadata={'start_index': 106967}
+
+
+[306] page_content='HEGEMONY: HOW TO PLAY - THE STATE 27 There are two tiles provided as a reminder of those abilities. Whenever Policies 4 & 5 change, place (or remove) the corresponding tile in the Public Services area, with the appropriate side up. Some cards instruct you to Provide resources, money or Voting cubes to one or more of the other players, instead of giving them directly. To do so, place those items in the State Benefits area that corresponds to their Class' metadata={'start_index': 107183}
+
+
+[307] page_content='. To do so, place those items in the State Benefits area that corresponds to their Class. If you do not already have all of the resources that you want to provide in the Public Services area or in your player board (or if you have them but don’t want to give them away), you are allowed – as part of this action – to buy them first, either from the players selling them or from the Foreign Market' metadata={'start_index': 107551}
+
+
+[308] page_content='. Note that in such cases you may not buy more than those indicated by the card effect, nor can you buy from the player to whom you are providing. When buying from the other players, the price is the one listed on their player boards and when buying from the Foreign Market, the price is the one listed on the bottom of the Import area (you do not pay tariffs to yourself).' metadata={'start_index': 107947}
+
+
+[309] page_content='When placing items in a State Benefits area, any items already there from a previous action are discarded - only the new ones remain in the area.' metadata={'start_index': 108321}
+
+
+[310] page_content='Whenever another player uses the Receive Benefits action to take items that you have provided in the State Benefits areas, gain 1 VP. Basic Actions The Basic actions you may perform on your turn are the following: Propose Bill By performing this action, you express your desire to change one of the policies that are currently in effect, into a new one that will better suit your needs' metadata={'start_index': 108467}
+
+
+[311] page_content='. To Propose a Bill, take one of your Bill markers and place it on a policy you want to change, on a section next to the one that is currently in effect. This is the policy that you propose to come into effect. You cannot choose a section that is not right next to the current one. For example, if Taxation is at section A, you cannot place your marker on section C. In addition, you are not allowed to Propose a Bill for a Policy which already has a player’s marker on it' metadata={'start_index': 108852}
+
+
+[312] page_content='. If, for example, Labor Market is at section B and another player has already Proposed a Bill for section C, you are not allowed to Propose a Bill for section A. Normally, after you Propose a Bill, nothing further happens at this point. All the Proposed Bills will have their outcome determined later in the round, during the Elections Phase. However, you have the option, right after you Propose a Bill, of calling for an Immediate Vote by spending 1 Influence' metadata={'start_index': 109324}
+
+
+[313] page_content='. If you do, elections are carried out immediately for this particular policy and the Bill you proposed (see the “Carry Out Elections” step in the Elections Phase for more details on how to carry out an election). If your proposal wins, immediately move the policy marker to the section you proposed and score points as normal - the new policy is now in effect. If your proposal loses, leave the policy marker where it is. In both cases, return your marker in front of you after the vote.' metadata={'start_index': 109786}
+
+
+[314] page_content='You have a total of 3 markers which means that, unless you call for Immediate Votes (In which case the marker returns in front of you after the election), you cannot Propose more than 3 Bills in a round.' metadata={'start_index': 110275}
+
+
+[315] page_content='Also note that as the State you do not have any Voting cubes in the bag. So while you can spend Influence to affect the outcome of an election, it’s better if you can count on at least one other player for support when proposing a Bill. Event Action When performing this action, you address one of the issues that have risen and need your attention. To perform this action, choose one of the Events on the board and perform the task listed on it' metadata={'start_index': 110479}
+
+
+[316] page_content='. To perform this action, choose one of the Events on the board and perform the task listed on it. The tasks in the Events always ask you to make a choice, usually to choose one or more of the other players. Depending on your choice, gain the corresponding reward listed on the card and then discard the Event. When an Event card instructs you to Spend resources or money, just return them to the Supply' metadata={'start_index': 110827}
+
+
+[317] page_content='. When an Event card instructs you to Spend resources or money, just return them to the Supply. Please note that, when spending, you are limited to the resources you already have – you may not buy more as part of the action and then spend them, as you do when you Provide.' metadata={'start_index': 111136}
+
+
+[318] page_content='Some Events instruct you to Provide or Spend up to a certain amount. In all these cases you cannot choose to Provide or Spend nothing at all. You must actually Provide or Spend something in order to address the issue listed in the Event. Similarly, if you cannot fully perform the task listed on the card (for example, it asks you to Provide more money than you have, or to Provide Voting cubes when none are available), you cannot perform the action.' metadata={'start_index': 111409}
+
+
+[319] page_content='Later in the game, Jim wants to buy Education from the State. Welfare State: Education happens to be at section A which means that Education is offered for free. He takes advantage of this and gets 7 Education (as much as his Population) without paying anything. Anna may not have gained any money but she gains 2 Legitimacy, 1 for every 3 resources that were bought. Example: Anna just performed an Event Action and placed 3 Health tokens in the Working Class State Benefits area' metadata={'start_index': 111861}
+
+
+[320] page_content='. During one of his turns, Jim takes the Receive Benefits free action and picks up the 3 Health tokens from the State Benefits area. As a result, Anna also gains 1 VP. Example: Anna plays as the State and wants to address one of the Events that have been drawn.' metadata={'start_index': 112341}
+
+
+[321] page_content='She has to choose between providing Health to the Working Class or the Middle Class. She decides to help Jim’s Working Class. Jim’s Population is 7 and according to the Event Anna must provide him with 4 Health. However, she only has 3 in her Public Services Area. Since she is providing, she is allowed to buy what she needs first, so she buys the 1 Health she lacks from the Capitalist Class. Then, she places all 4 Health on the Working Class State Benefit area.' metadata={'start_index': 112603}
+
+
+[322] page_content='As a reward for providing to the Working Class, Anna gets a Working Class Legitimacy, as listed on the card. Had Anna chosen to provide Health to Claire's Middle Class, since Claire's Population is 6, she would have placed 3 Health tokens in the Middle Class State Benefits area and she would have gained 1 Middle Class Legitimacy instead.' metadata={'start_index': 113069}
+
+
+[323] page_content='HEGEMONY: HOW TO PLAY - THE STATE 28 Sell to the Foreign Market This action allows you to sell goods in your possession to the Foreign Market. Since you normally have no Companies that produce goods, getting goods is only possible through the use of some Action cards, either yours or other players’. When you Sell to the Foreign Market, check the current Export card on the board' metadata={'start_index': 113409}
+
+
+[324] page_content='. When you Sell to the Foreign Market, check the current Export card on the board. You may perform any number of transactions for goods (Food or Luxury) from those listed there, but each of those transactions can only be performed once during each action. When performing a transaction, spend the listed amount of goods and gain the corresponding money from the Supply. Meet with a Party’s MPs.' metadata={'start_index': 113708}
+
+
+[325] page_content='This action allows you to show political support to one of the Classes and increase your Legitimacy as a result.' metadata={'start_index': 114103}
+
+
+[326] page_content='To perform this action, give 2 of your personal Influence to another player. Then, move that player’s Legitimacy marker on your player board one space forward. If you don’t have enough personal Influence, you may not perform this action. Extra Tax Sometimes you find yourself in urgent need of money. This action allows you to collect additional money from the other players but comes at a cost.' metadata={'start_index': 114216}
+
+
+[327] page_content='To perform this action, get 10 from each other player. Then, get -1 Legitimacy to the two Classes with the lowest Legitimacy score (choose in case of a tie). If a player does not have enough money to give, they must take a Loan. Campaign This action allows you to use the Public Media to your advantage, increasing your sphere of influence' metadata={'start_index': 114612}
+
+
+[328] page_content='. When performing this action, convert up to 3 Media Influence to Personal Influence: Simply move the Influence tokens from the Public Services area to your player board. Free Actions The Free actions you may perform during your turn are the following: Adjust Wages This action allows you to change the Wages that you offer in your Companies. For every Company that you want to change Wages for, move its marker to its new level' metadata={'start_index': 114951}
+
+
+[329] page_content='. For every Company that you want to change Wages for, move its marker to its new level. If your change is to raise the Wages, you also commit the Workers afterwards. Note that you must always abide to Labor Market (Policy 2) which sets the minimum allowable Wage. Also, you may not lower the Wage in a Company that has committed Workers (see Committed Workers in Working Class and Middle Class sections). Pay Off Loan This action allows you to pay off a Loan you have. Spend 50 and discard the Loan.' metadata={'start_index': 115292}
+
+
+[330] page_content='Production Phase Produce Goods & Services During this step your Companies get to produce. Pay the Wages corresponding to each of your Companies and get the listed amounts of resources. Note that the Wage listed in each Company corresponds to all the Workers working there - you don't pay that amount to each Worker separately.' metadata={'start_index': 115793}
+
+
+[331] page_content='The services you produce are placed in the Public Services area of the main board. For each service, the storage limit is equal to your Companies’ total production of those services plus 6 (regardless if those Companies are operational or not). Normally you don’t produce any goods but through the use of some cards you may end up owning Agricultural or Luxury Companies. In this case, goods you produce are placed on your player board' metadata={'start_index': 116120}
+
+
+[332] page_content='. In this case, goods you produce are placed on your player board. Once again, the storage limit for each of them is equal to your production of that good, plus 6. Cover Needs If you end up producing Food, players may buy it from you during this step to cover their needs. Pay Taxes In this step, all the other players pay their taxes to you. Make sure that the money they spend for taxes is placed in the State Treasury and not back to the Supply' metadata={'start_index': 116490}
+
+
+[333] page_content='. Elections Phase Refill Bag As the State, you do not place any cubes in the bag. Instead, you gain Personal Influence during this step. Check the Legitimacy tracks on the State’s player board and note which Class has the lowest Legitimacy. Gain the Influence listed above that Legitimacy score and place it on your player board. Carry Out Elections Since you do not have any Voting cubes, you can only affect the outcome of an election by spending Personal Influence' metadata={'start_index': 116937}
+
+
+[334] page_content='. Thus, as long as you have any Influence on your player board, you must state a preference (in favor/against) in every election, even if you don’t plan on spending that Influence. If you don’t have any Personal Influence, you do not participate at all.' metadata={'start_index': 117404}
+
+
+[335] page_content='If you spend Influence for a Bill proposed by another player and it passes, you gain 1 VP as normal. If a Bill proposed by you passes, you gain 3 VP as normal, regardless of whether you spend Influence or not. Bear in mind that, not having any Voting cubes of your own, also means that in order to pass Bills you have proposed yourself, you must either spend a lot of Personal Influence or you must count on the support of one or more of the other players' metadata={'start_index': 117658}
+
+
+[336] page_content='. Scoring Phase In this phase you get to score some additional VP. Before doing this though, you need to check any Events still on the board and apply their penalties. All in all, you perform the following steps: HEGEMONY: HOW TO PLAY - THE STATE 29 Apply Event Penalties Any Events that you didn’t act upon, should have their card still on the main board' metadata={'start_index': 118113}
+
+
+[337] page_content='. Check all these cards and for each one, apply the penalty shown in the “NO ACTION” column – usually a loss of Legitimacy for some of the Classes. Then, discard those cards. Score Legitimacy and Adjust Tracks Check the Legitimacy tracks on your player board. Gain VP equal to the sum of the two lowest Legitimacy values. Afterwards, move all 3 Legitimacy markers to half of their current values (rounded up).' metadata={'start_index': 118468}
+
+
+[338] page_content='Then, if you have any Legitimacy tokens in front of you, add +1 Legitimacy for each token to the corresponding Legitimacy track. Score Political Agenda Look at the Political Agenda card that you have next to your board and check which of the Policies on the card match the current Policies on the board. For each one that matches, gain 1 VP. Then discard the Political Agenda card.' metadata={'start_index': 118878}
+
+
+[339] page_content='Game End When the game ends, you get to score a few additional VP: • Gain 1 VP for every 2 / 3 / 3 / 3 /3 MEDIA in your Storages. • Gain 1 VP for every 30 remaining in the State Treasury.' metadata={'start_index': 119260}
+
+
+[340] page_content='Example: It’s the Scoring Phase and Anna starts performing the necessary steps. She starts with the Event Penalties. There is still one Event on the board which she didn’t act upon during the Action phase. As a penalty for that, she loses 1 Legitimacy in both the Middle Class and the Capitalist Class and discards the card.' metadata={'start_index': 119448}
+
+
+[341] page_content='She then checks the Legitimacy tracks on her player board. The Working Class Legitimacy is 6, the Middle Class Legitimacy is 4 and the Capitalist Class Legitimacy is 5. The two lowest values are 4 and 5, so she scores 9VP.
+Finally, Anna checks her Political Agenda card and compares it to the Political Table on the board. There are 3 Policies that match those on the card: Fiscal Policy, Taxation and Welfare State: Health & Benefits. As a result, she gains 3 more VP and then discards the card.' metadata={'start_index': 119773}
+
+
+[342] page_content='After she scores, all markers are moved to half their current values. The Working Class’s marker goes to 3, the Middle Class’s marker goes to 2 and the Capitalist Class’s marker goes to 3. Anna, however, has 2 Legitimacy tokens, one for the Working Class and one for the Middle Class, which increase the corresponding Legitimacy values by 1.' metadata={'start_index': 120270}
+
+
+[343] page_content='HEGEMONY: POLITICS TABLE 30 Politics table plays a huge part in the game as it affects most of what the players do. In order to win, it is crucial to change these policies to your favor at the right time and make the most use out of them. Each Policy affects the game in a different way: Fiscal Policy Fiscal Policy determines the size of the Public Sector and the amount of Loans that the State may get before it collapses and the IMF intervenes' metadata={'start_index': 120612}
+
+
+[344] page_content='. This symbol shows the number of available Public Companies. When the game starts, Fiscal Policy is at section C, which means that there are only 3 available Companies in the Public Sector of the board' metadata={'start_index': 121058}
+
+
+[345] page_content='. If it goes to section B, the number of available Public Companies changes to 6 which means that 3 new Public Companies become available (and their cost needs to be paid by the State), and if it goes to section A, the number changes to 9 which means that all the Public Companies are now available (with, once again, the cost of the new Companies being paid by the State).' metadata={'start_index': 121260}
+
+
+[346] page_content='When the Public Sector becomes bigger, if there are available Workers (of the same Class) in the Unemployed Workers area that could fill all the slots in one or more of the Companies revealed, they are automatically assigned there (and committed). Similarly, if the Public Sector becomes smaller (the Policy goes from section A to B or from section B to C), some Public Companies become unavailable and they are turned facedown with the State gaining money equal to their cost' metadata={'start_index': 121634}
+
+
+[347] page_content='. Any Workers in those Companies are immediately placed in the Unemployed Workers area, even if they were committed.' metadata={'start_index': 122110}
+
+
+[348] page_content='The exact Public Companies that become available or unavailable when Fiscal Policy changes, as well as who decides on which Company will get assigned Workers, depends on whether the State is controlled by a player or not: • In a 4-player game, all the decisions are made by the State player' metadata={'start_index': 122227}
+
+
+[349] page_content='. This includes which Companies become available or unavailable (turn their corresponding cards face up or face down and pay/gain money equal to their cost) as well as which Class’s Workers will be assigned and where (assuming of course multiple options exist).' metadata={'start_index': 122518}
+
+
+[350] page_content='• In games with fewer players, when the Public Sector becomes bigger, reveal all the Companies in the next row and pay 60 (the cost for all of them) from the State Treasury. If multiple new Companies are eligible to have Workers assigned to them, the player controlling the Workers decides which one will become operational. If Workers of both Classes can be assigned, the Middle Class decides which Class's Workers will do so' metadata={'start_index': 122780}
+
+
+[351] page_content='. Similarly, when the Public Sector becomes smaller, turn all the Companies in the bottom row face-down; they are sold by the State (add 60 to the State Treasury) and all of the Workers in them go to the Unemployed Workers area.' metadata={'start_index': 123207}
+
+
+[352] page_content='If the State must buy new Companies and does not have enough money to do so, they must take a Loan. This symbol indicates the number of Loans at which the State collapses and the IMF intervenes. If the Policy is in section C (which is where it is when the game starts) that number is 1. This means that if the State is unable to cover its expenses and is forced to take even a single Loan, if it's unable to pay it off in time, the IMF will intervene during the Production Phase' metadata={'start_index': 123436}
+
+
+[353] page_content='. If the Policy is in sections A or B, the IMF will intervene if the State has 2 Loans. Note that whether IMF intervenes or not is only checked once every round, during the Check IMF step of the Production Phase. See IMF Intervention in Other Rules for more details. Labor Market Labor Market determines the minimum allowable Wage. No Company is allowed to provide Wages lower than those set by this Policy.' metadata={'start_index': 123914}
+
+
+[354] page_content='In other words: • If Labor Market is in section A, only Level 3 Wages are allowed.
+• If Labor Market is in section B, only Level 2 and Level 3 Wages are allowed.
+• If Labor Market is in section C, all levels of Wages are allowed.' metadata={'start_index': 124322}
+
+
+[355] page_content='• If Labor Market is in section C, all levels of Wages are allowed.
+Whenever this Policy changes, the players owning Companies must immediately change all the Wages that no longer comply with the new Policy. They may also change other Wages if they want (for example, reduce Wages if the new Policy allows them to do so). When the State is not controlled by a player, the Public Companies are always adjusted to have the minimum allowable Wage set by this Policy.' metadata={'start_index': 124484}
+
+
+[356] page_content='Taxation Taxation determines the amount that each Class will have to pay to the State every round as taxes. Each Class’s taxes are calculated in a different way. A detailed analysis can be found in each Class’s section but what all Classes have in common is that their taxes depend on which Policy is in effect during the Pay Taxes Step of the Production Phase. Based on that, they consult the corresponding table in their Player Aid to find out how much they must pay.' metadata={'start_index': 124948}
+
+
+[357] page_content='This Policy also affects the value of the Tax Multiplier. This is a value used by the Capitalist Class and the Middle Class to calculate part of their taxes. Not only POLITICS TABLE HEGEMONY: POLITICS TABLE 31 does this Policy increase or decrease the base value of Tax Multiplier, it also determines whether other Tax Multiplier modifiers (from Policies 4 & 5 – see below) are taken into consideration or not: • When Taxation is in section A, the base value of Tax Multiplier is 3' metadata={'start_index': 125418}
+
+
+[358] page_content='. The Welfare Tax Multiplier modifiers are doubled.' metadata={'start_index': 125899}
+
+
+[359] page_content='• When Taxation is in section B, the base value of Tax Multiplier is 2. The Welfare Tax Multiplier modifiers count as normal.' metadata={'start_index': 125951}
+
+
+[360] page_content='• When Taxation is in section C, the base value of Tax Multiplier is 1. The Welfare Tax Multiplier modifiers are not taken into consideration. Welfare State: Health & Benefits Welfare State: Health & Benefits determines the cost of Public Health. It also determines whether some benefits can be provided by the State to the people (through requirements on cards) and also modifies the Tax Multiplier (see 3. Taxation for how this works)' metadata={'start_index': 126077}
+
+
+[361] page_content='. Taxation for how this works). The exact cost of Public Health in each section is the following: • When Welfare State: Health & Benefits is in section A, Public Health is free. The Tax Multiplier gets a +2 modifier.' metadata={'start_index': 126483}
+
+
+[362] page_content='• When Welfare State: Health & Benefits is in section B, each Public Health costs 5 . The Tax Multiplier gets a +1 modifier.' metadata={'start_index': 126701}
+
+
+[363] page_content='• When Welfare State: Health & Benefits is in section C, each Public Health is sold at the full price of 10 . The Tax Multiplier is not modified. When playing with 4 players and this Policy is in sections A or B, place the appropriate tile on the Public Services area, as a reminder of the bonus that the State gets whenever Health is bought at a lower-than-normal price' metadata={'start_index': 126827}
+
+
+[364] page_content='. Whenever this Policy changes, the Capitalist Class and the Middle Class may immediately adjust the price at which they sell their Health.' metadata={'start_index': 127198}
+
+
+[365] page_content='Welfare State: Education Welfare State: Education determines the cost of Public Education. It also modifies the Tax Multiplier (See 3. Taxation for how this works). The exact cost of Public Education in each section is the following: • When Welfare State: Education is in section A, Public Education is free. The Tax Multiplier gets a +2 modifier.
+• When Welfare State: Education is in section B, each Public Education costs 5 . The Tax Multiplier gets a +1 modifier.' metadata={'start_index': 127338}
+
+
+[366] page_content='• When Welfare State: Education is in section C, each Public Education is sold at the full price of 10 . The Tax Multiplier is not modified. When playing with 4 players and this Policy is in sections A or B, place the appropriate tile on the Public Services area, as a reminder of the bonus that the State gets whenever Education is bought at a lower-than-normal price' metadata={'start_index': 127808}
+
+
+[367] page_content='. Whenever this Policy changes, the Capitalist Class and the Middle Class may immediately adjust the price at which they sell their Education.' metadata={'start_index': 128177}
+
+
+[368] page_content='Whenever the Taxation Policy changes, always make sure to immediately adjust the Tax Multiplier accordingly. Example 1: In the beginning of the game, Policies 3, 4 and 5 are in sections A, B and C accordingly. Policy 3 determines the base value of the Tax Multiplier at 3. Policy 4’s modifier in section B is +1 but due to Policy 3 being in section A, it is doubled, meaning it increases the Tax Multiplier by 2, moving it to 5' metadata={'start_index': 128320}
+
+
+[369] page_content='. Finally, Policy 5 is in section C which means that it doesn’t modify the Tax Multiplier at all.' metadata={'start_index': 128747}
+
+
+[370] page_content='Example 2: Later in the game, Policies 3, 4 and 5 have moved to sections B, A and A accordingly. The Tax Multiplier’s base value now is 2, as determined by Policy 3. Policies 4 and 5 are both in section A meaning that each of them adds a +2 to the value of the Tax Multiplier. Thus, the final value is determined to be 6.' metadata={'start_index': 128845}
+
+
+[371] page_content='HEGEMONY: ELECTION EXAMPLE 32 Foreign Trade Foreign Trade Policy determines the price of the tariffs imposed upon imported goods. It also determines the number of Business Deal cards that are drawn each round.
+Whenever Foreign Trade changes, the imposed tariffs change: • When Foreign Trade is in section A, the Food tariff is 10 and the Luxury tariff is 6 .
+• When Foreign Trade is in section B, the Food tariff is 5 and the Luxury tariff is 3 .' metadata={'start_index': 129167}
+
+
+[372] page_content='• When Foreign Trade is in section B, the Food tariff is 5 and the Luxury tariff is 3 .
+• When Foreign Trade is in section C, there are no tariffs. This symbol indicates the number of Business deal cards that are drawn during the Preparation Phase: • If Foreign Trade is in section A, no Business Deal cards are drawn.
+• If Foreign Trade is in section B, 1 Business Deal card is drawn.
+• If Foreign Trade is in section C, 2 Business Deal cards are drawn.' metadata={'start_index': 129527}
+
+
+[373] page_content='Note that if this Policy changes during the round due to an Immediate vote, you do not add or remove any Business deal cards. The Policy affects only what happens during the Preparation Phase. This is also the reason why Business Deal cards list tariffs for 6.A on them. In case the Policy changes in the middle of a round and Business Deal cards are still on the board. Whenever this Policy changes, make sure to move the marker in the Import area of the board to the corresponding level' metadata={'start_index': 129984}
+
+
+[374] page_content='. Also, the Capitalist Class and the Middle Class may immediately adjust the prices in the goods they sell.' metadata={'start_index': 130472}
+
+
+[375] page_content='Immigration Immigration determines whether the country’s borders are open or closed to immigrants. Normally, the Working Class and the Middle Class get two Workers by default each during the Preparation Phase. In addition to that, they get a number of Workers determined by this Policy: • If Immigration is in A, they don’t get any additional Workers at all. • If Immigration is in B, they get 1 additional Worker each.' metadata={'start_index': 130580}
+
+
+[376] page_content='• If Immigration is at C, they get 2 additional Workers each. The type of those Workers is determined by the Immigration cards. Whenever a player needs to get an additional Workers due to this Policy, they draw a card from the Immigration deck and check the Worker of their Class shown in it, taking the corresponding meeple from the pile next to the board and placing it in the Unemployed Workers area. Then they return the card to the bottom of the deck' metadata={'start_index': 131000}
+
+
+[377] page_content='. Then they return the card to the bottom of the deck. Note that when both players need to get new Workers, each of them draws Immigration cards separately. Do not draw a single card for both players!' metadata={'start_index': 131402}
+
+
+[378] page_content='Always remember that while the value of the goods from the Foreign Market is paid to the Supply, the tariffs are paid to the State.
+It’s the Carry Out Elections step in a 4-player game. Jim (Working Class) had proposed a Bill for Welfare State: Education during the round and the players are about to vote on it.' metadata={'start_index': 131603}
+
+
+[379] page_content='Jim would state his preference first but since the Bill was proposed by him, his preference is in favor by default. Claire (Middle Class) says she is in favor as well. Mike (Capitalist Class) does not want the Welfare Tax to increase so he states that he is against the proposed Bill. Anna (State) states that she is also against. The players then draw 5 cubes from the bag: 2 belong to the Working Class, 1 belongs to the Middle Class and the remaining 2 are the Capitalist Class’s' metadata={'start_index': 131916}
+
+
+[380] page_content='. It looks like Jim has the lead but before the final outcome is determined, players can first spend their Influence and add more votes. Jim informs everyone that he has 1 Influence. Claire says she has none to contribute, Mike says he has 2 Influence and Anna has 3. In secret, they decide on how many they are willing to spend, place the tokens in their fist and reveal them at the same time: Jim ended up spending his single Influence while Mike and Anna spent 1 Influence each' metadata={'start_index': 132398}
+
+
+[381] page_content='. Unfortunately for them, their total is equal to that of the other side and since ties go to the player who proposed the Bill, he gets to pass it. All 3 of the Influence tokens are discarded, along with Jim’s and Claire’s cubes (the winning side). Mike’s 2 cubes are returned in the bag since they were part of the losing side. The Policy marker moves to section A and Jim’s marker is returned in front of him. Since Jim proposed a Bill and managed to pass it, he gains 3 VP' metadata={'start_index': 132878}
+
+
+[382] page_content='. Since Jim proposed a Bill and managed to pass it, he gains 3 VP. Claire, who supported him, also gains 1 VP.' metadata={'start_index': 133288}
+
+
+[383] page_content='If Mike or Anna had spent 1 more Influence, then they would have had the majority: In that case, the Bill would not have passed. Jim’s and Claire’s Voting cubes would have returned in the bag, Mike’s 2 cubes would have been discarded along with the 4 Influence tokens, and no VP would have been awarded to any player' metadata={'start_index': 133399}
+
+
+[384] page_content='. Alternatively, if in the initial example, instead of Claire’s cube, another cube of Jim had been drawn, the final result would be like this: In this case, Jim would still win and would get 3 VP. Claire on the other hand, would not have gotten any points, despite supporting Jim, because she would not have contributed with any vote in the final result. ELECTION EXAMPLE HEGEMONY: OTHER RULES 33 The rules so far have covered most of the game’s aspects' metadata={'start_index': 133715}
+
+
+[385] page_content='. ELECTION EXAMPLE HEGEMONY: OTHER RULES 33 The rules so far have covered most of the game’s aspects. However, there are some rules that have not been mentioned yet so they are explained below: Loans Players are often required to pay for a cost. Sometimes it is due to a specific rule (mandatory costs like Taxation, Wages, Cover Needs, etc.) and other times due to an effect played by another player. In all of those cases, if they are unable to pay, they must take a Loan' metadata={'start_index': 134068}
+
+
+[386] page_content='. In all of those cases, if they are unable to pay, they must take a Loan. To take a Loan, place a Loan card next to your board and then gain 50 . Note that you cannot take out a Loan at will. You only take one if you are forced to pay an amount of money and you don’t have enough. Taking one to increase your money so that you can spend it on something optional (like building a Company, playing an Action card that lists a cost or buying resources other than Food) is not allowed' metadata={'start_index': 134468}
+
+
+[387] page_content='. As long as you have a Loan during the Preparation Phase of each round, you will have to pay an interest of 5 . In case you are unable to pay that interest, you will have to take out another Loan to do so. To pay off a Loan and stop paying interest every round, you need to take the Pay Off Loan Free Action during one of your turns. When you do, you spend 50 and discard the Loan card' metadata={'start_index': 134949}
+
+
+[388] page_content='. When you do, you spend 50 and discard the Loan card. At the end of the game, all players, except for the Capitalist Class, are given a final chance to pay off their Loans, spending 55 for each one. However, if they are unable to do so, they lose VP depending on the total amount they are unable to cover. The Capitalist Class player, on the other hand, loses 5 VP for each Loan they still have (see Game End - Pay Off Loans)' metadata={'start_index': 135282}
+
+
+[389] page_content='. Note that when the Capitalist Class takes out a Loan, the 50 go to its Capital. Similarly, whenever it pays interest or when it wants to pay it off, it spends money from its Capital.' metadata={'start_index': 135708}
+
+
+[390] page_content='When playing with 2 or 3 players, if the State Treasury ever runs out of money, the State takes a Loan as normal. Place a Loan card on the State Treasury along with 50 . During the Preparation Phase, make sure to pay the Loan’s interest (with money from the State Treasury) as normal and then, if the State has more than 50 , it pays off the Loan.' metadata={'start_index': 135893}
+
+
+[391] page_content='IMF Intervention If in the Check IMF step of the Production Phase, the State has more Loans than what its Fiscal Policy allows (and is unable to pay them off) the IMF Intervenes. When the IMF intervenes, all proposed Bills are immediately discarded. As compensation, each player gets 1 Influence for each of their Bills that was discarded this way' metadata={'start_index': 136241}
+
+
+[392] page_content='. As compensation, each player gets 1 Influence for each of their Bills that was discarded this way. Then, the following changes happen to the Politics table: Make sure to apply the effects from all the Policies that change due to the IMF’s intervention. This includes Public Companies being sold (and the State getting money equal to their cost), changes in the Wages (all Wages are forced to L1), the Tax Multiplier and the price of imported goods from the Foreign Market' metadata={'start_index': 136489}
+
+
+[393] page_content='. Since the prices for many goods and services change due to IMF Intervention, the Capitalist Class and the Middle Class players may also adjust the prices on their boards at this moment.' metadata={'start_index': 136962}
+
+
+[394] page_content='After these changes are applied, the State pays off its Loans, spending 55 for each one (see Loans). Note that if Fiscal Policy was previously at section A or B, then, after the IMF Intervention, the State will have some additional money from selling some of the Public Companies. If the State is still unable to pay the full amount, it pays as much as it can and discards the remaining Loan(s). Finally, the State moves all 3 Legitimacy markers to half of their current values (rounded up).' metadata={'start_index': 137150}
+
+
+[395] page_content='OTHER RULES Example 1: It’s the Production Phase and Mike realizes that he doesn’t have enough money to cover all the Wages in his Companies; he has 25 in his Revenue, 40 in his Capital and needs to pay 75 . To proceed with his necessary payments he must take a Loan: He takes a Loan card next to his player board and adds 50 to his Capital. During next round’s Preparation Phase, Mike spends 5 as interest' metadata={'start_index': 137642}
+
+
+[396] page_content='. During next round’s Preparation Phase, Mike spends 5 as interest. Later in the round, after selling most of the goods and services he produced, he uses his Free Action to pay off his Loan - he pays 50 (taking as much as he can from his Capital and the rest from his Revenue) and discards the Loan card.' metadata={'start_index': 137982}
+
+
+[397] page_content='Example 2: Anna finds herself short of money in the State Treasury so she decides to use the Basic Action Extra Tax which forces each other player to give her 10 . Unfortunately for Jim, he only has 7 on his player board. To cover the remaining amount, he takes a Loan card and gains 50 .' metadata={'start_index': 138287}
+
+
+[398] page_content='The IMF intervention usually changes the state of the game significantly and some players may end up heavily affected by this. You are encouraged to inform other players when it looks like the State is going to collapse. If the IMF Intervention causes the Labor Market Policy to change, when the time comes for the Working Class and the Middle Class to pay their taxes, use the Labor Market’s previous section for their calculations' metadata={'start_index': 138576}
+
+
+[399] page_content='. In other words, the players are taxed based on where the Labor Market Policy was when they were paid. You can place a marker temporarily on the appropriate section as a reminder.' metadata={'start_index': 139008}
+
+
+[400] page_content='Example: It’s the Production Phase and Anna realizes that she doesn’t have enough money in the State Treasury to cover all of the Wages in her Public Companies. She must take a Loan, but unfortunately she also had another Loan from before; with the Fiscal Policy being in section B, this means that the IMF will need to intervene later in the phase.' metadata={'start_index': 139189}
+
+
+[401] page_content='During the Cover Needs step, nothing changes for Anna. If Foreign Trade was at A or B she could at least hope to get some money through tariffs (from Food bought from the Foreign Market) but this is not possible now that it is at C. In the Check IMF step she doesn't have enough money to pay off any of her Loans so the IMF Intervention begins. First of all, all the proposed Bills in the Politics table are discarded. Jim had proposed 2 Bills so he gains 2 Influence due to that' metadata={'start_index': 139539}
+
+
+[402] page_content='. Jim had proposed 2 Bills so he gains 2 Influence due to that. Mike had also proposed 1 Bill so he gains 1 Influence as well. Then, all the policies change as the IMF demands.' metadata={'start_index': 139956}
+
+
+[403] page_content='HEGEMONY: CREDITS 34 Component Limitations You are always limited to the components included in the game, with the exception of money which is considered to be unlimited. This means that if you happen to place all of your Voting cubes in the bag, you cannot place any more. Similarly, if no Influence is left, players cannot buy or gain any more. If all the Workers of a particular color are already on the board, you can no longer educate an unskilled Worker to that industry' metadata={'start_index': 140133}
+
+
+[404] page_content='. In addition to that, if an effect (for example an Immigration card) instructs you to place a skilled Worker in the Unemployed Workers area but none is available, place an unskilled Worker instead. However, if an effect causes an unskilled Worker to be added to the board but there is none available, add a skilled Worker of your choice.' metadata={'start_index': 140609}
+
+
+[405] page_content='If you ever run out of Vardis tokens (money), feel free to use any other tokens available in your home as equivalent.' metadata={'start_index': 140948}
+
+
+[406] page_content='Before IMF Intervention After IMF Intervention The changes in the Politics table have many consequences on the board: • Due to Fiscal Policy changing, Public Companies will need to close so that only 3 remain. Anna chooses 3 Companies to close, each with a cost of 20 , so she adds 60 to the State Treasury. Unfortunately, 2 of those Companies had Workers in them which all end up in the Unemployed Workers area. • Due to the Labor Market changing, the minimum allowable Wage is now L1' metadata={'start_index': 141066}
+
+
+[407] page_content='. • Due to the Labor Market changing, the minimum allowable Wage is now L1. Mike, Claire and Anna move all the Wages to the lowest position on the cards. • The Taxation Policy changes to A which, combined with the changes in the Welfare State Policies, causes the Tax Multiplier to move from 1 to 5. • Due to the Welfare State policies changing, the Welfare tiles must also be adjusted' metadata={'start_index': 141478}
+
+
+[408] page_content='. • Due to the Welfare State policies changing, the Welfare tiles must also be adjusted. Turn the Health Welfare tile over to correspond to Policy 4B and remove the Education Welfare tile from the board. Since the cost for Public Health and Education just changed, Mike and Claire decide to also change the value at which they sell their own resources. • Due to Foreign Market changing, the marker in the Import area on the board moves to the middle position' metadata={'start_index': 141778}
+
+
+[409] page_content='. As a result, the cost for Food and Luxury from the Foreign Market will now be higher. Mike and Claire decide to also change the values on their boards at which they sell their own goods. Then, the State must pay off as much of its Loans as it can. After Anna took the second Loan to pay the necessary Wages, the State Treasury was left with 27 . The Fiscal Policy change added 60 more to the State Treasury for a total of 87 . Anna spends all that money and discards her 2 Loans' metadata={'start_index': 142238}
+
+
+[410] page_content='. Anna spends all that money and discards her 2 Loans. Finally, Anna moves the 3 Legitimacy markers to half of their current value. The Working Class marker was at 6 so it moves to 3, the Middle Class marker was at 8 so it moves to 4 and the Capitalist Class marker was at 7 so it moves to 4 as well. CREDITS ©2022 Hegemonic Project Limited. Hegemony: Lead your Class to victory is a trademark of Hegemonic Project Limited. All Rights Reserved.' metadata={'start_index': 142665}
+
+
+[411] page_content='Game Design: Varnavas Timotheou, Vangelis Bagiartakis Game Development: Anastasios Grigoriadis Illustrations: Jakub Skop Graphic Design: Dimitris Anastasiadis & Katerina Xerovasila (truly.gr) Editing: Eric Engstrom, Grey Dolphin Game Development Academic Advisors: Dr Russell Foster, Dr Pawel Adrjan, Alexander Gertz, Andreas Dounis, Dr Christopher Holmes, Dr Irina Burlacu Lead Playtester: Theo K' metadata={'start_index': 143110}
+
+
+[412] page_content='. Mavraganis Playtesters: Artie Heinrich, Akis Tsakliotis, Dimitris Siakambenis, Stefanos Spanoudakis, Andreas Katelanos, Mike Georgiou, Haralampos Tsakiris, Konstantinos Karagiannis, Alexandros Kapidakis, Alexandros Sianos, Volker Elzner, Christoph Kiebeler, Selma Wittke, Dimitris Tavoularis, Vassilis Milingos, Sokratis Goundanas, Stavros Tsiakalos Vangelis Bagiartakis would like to dedicate this game to his son, Asterios.' metadata={'start_index': 143507}
+
+
+[413] page_content='Hegemony: Lead Your Class to Victory Rules v1.2 HEGEMONY: RULES QUESTIONS 35 If a Company has a Strike token on it, can the Workers there be assigned elsewhere by the Working Class? As long as the Workers are not committed, the Working Class may assign them elsewhere if it wants.' metadata={'start_index': 143935}
+
+
+[414] page_content='Can a Company that is on Strike, be sold? Yes, as long as the Workers are not committed, the Company can be sold as normal. When Strikes are resolved, what happens if there are no longer Workers in a Company with a Strike token? Since the Company is no longer operational, nothing happens and the Strike token is just removed. Note that the Working Class does not gain Influence from that token' metadata={'start_index': 144218}
+
+
+[415] page_content='. Note that the Working Class does not gain Influence from that token. If a Middle Class Company with a Working Class Worker slot is left without a Middle Class Worker because it was assigned elsewhere, should the Working Class count that slot when determining the requirement for a Demonstration? No. Since the Working Class Worker cannot be assigned there without a Middle Class Worker running the Company, that slot should not be considered.' metadata={'start_index': 144547}
+
+
+[416] page_content='If the IMF intervenes and as a result Public Companies get sold, what happens if the State has more resources than its (new) storage limit? Those resources are immediately discarded since they can no longer be stored' metadata={'start_index': 144994}
+
+
+[417] page_content='. If, during an IMF Intervention, a Public Company with Middle Class Workers is forced to close, does the Middle Class take it into consideration when paying taxes, later in the same phase? Since the Company is no longer on the board and there are no Middle Class Workers working in it when the Taxation step comes, the Middle Class does not pay any taxes for it.' metadata={'start_index': 145212}
+
+
+[418] page_content='If the Working Class or the Middle Class gain Prosperity but their Prosperity marker is already at the end of their track, what happens? The marker stays where it is and they gain VP equal to the Prosperity value of that space. If the Capitalist Class builds a Company requiring only unskilled Workers and there are unskilled Workers available from the Working Class but only skilled Workers from the Middle Class, can the Capitalist Class choose to assign the Middle Class ones? Yes it can' metadata={'start_index': 145578}
+
+
+[419] page_content='. Since both Classes have Workers available, the Capitalist Class player first chooses the Class they want to employ. Then, they choose the exact Workers to take, with priority on the unskilled ones.' metadata={'start_index': 146072}
+
+
+[420] page_content=' When Assigning Workers, if I remove a Worker from a Company to assign it elsewhere and I assign a different Worker in its place, all in the same action, is that new Worker committed? A Company (other than the Middle Class's) cannot have both committed and non-committed Workers. If for any reason this happens (like in the example mentioned) all the Workers become non-committed. Effectively, this is treated similarly to when you Swap Workers.' metadata={'start_index': 146272}
+
+
+[421] page_content='Can I use the Assign Workers action to just commit Workers I already have in a Company? No you can't. They would have to be assigned to a new Company to become committed.
+ If in a 4-Player game, Public Companies need to be sold due to a change in Fiscal Policy, can the State sell a Company with committed Workers in it? Yes, it can (as it may also happen in games with 2 or 3 players, when an entire row is sold). This is the only case in which a Company with committed Workers can be sold.' metadata={'start_index': 146721}
+
+
+[422] page_content='In a fully operational Middle Class Company, if the Working Class Worker is committed and the Middle Class Worker isn’t, can the Middle Class player move their Worker elsewhere (either by Assigning it or by Building a new Company with it)? No, they can’t. Doing so would be the equivalent of closing the Company (the Working Class Worker would have to become unemployed) and the committed Working Class Worker prevents that.' metadata={'start_index': 147218}
+
+
+[423] page_content='If the Wages are raised due to a Policy change, are the Workers committed? No, the Workers are only committed when Wages are raised if it is due to a Free Action performed by another player during the Action Phase. Can the State perform an Extra Tax if its Legitimacy scores are already at 1? No, it must have Legitimacy to lose, in order to perform the Extra Tax action.' metadata={'start_index': 147645}
+
+
+[424] page_content='RULES QUESTIONS HEGEMONY: CARD RELATED QUESTIONS 36 Action Cards When a card instructs a player to assign Workers, do those Workers become committed? Yes. Whenever a card effect instructs a player to perform an Action, unless otherwise noted, all the normal rules regarding that Action continue to apply.' metadata={'start_index': 148022}
+
+
+[425] page_content='A Matter of High Priority What happens to the card I don’t choose? Is it discarded? The other card is returned back to the top of the Event deck. Do I have to perform the Event Action on the Event I just placed on the board? No. If you have 2 Events on the board, you can perform an Event Action on either of them.
+If I play this card in the first round, what happens if any of the top 2 Events is for Rounds 2-5 only? Shuffle it back into the pile and draw a new Event in its place.' metadata={'start_index': 148329}
+
+
+[426] page_content='Bid Rigging Can I sell more Luxury than what the State can store? Can I sell more than what the State can afford and thus force it to take a Loan? You cannot sell more resources to the State than what it can store, but, if it can store them, you can sell more than what it can afford. In such a case, as per normal rules, the State is forced to take a Loan.
+In a 2-player game, the Luxury sold by the Capitalist Class, where does it go? It goes back to the Supply.' metadata={'start_index': 148819}
+
+
+[427] page_content='Cooperative Farm If I build a Cooperative Farm Company, can the Workers working there be later assigned to another Company? If so, what happens to the Cooperative Farm? In the round that the Cooperative Farm is built, the Workers assigned there are committed, as they would be in any other Company. As per the regular rules, committed Workers cannot be assigned elsewhere. In the following rounds, you can assign those Workers elsewhere like you can with all of your Workers' metadata={'start_index': 149288}
+
+
+[428] page_content='. If you do so, the Cooperative Farm remains next to your player board and you can later assign Workers to it again if you want.' metadata={'start_index': 149764}
+
+
+[429] page_content='Do the Workers assigned there count as part of the 4 Workers required for having a Trade Union in the Agricultural Industry? Yes, they do. Denial of Free Speech Can I play this card if my Legitimacy scores are already at 1? No, you must have Legitimacy to lose, in order to play the card. Emergency State If I play this card to change a Policy, do I gain any VP? No. VPs are awarded only if a Policy changes due to an election. .' metadata={'start_index': 149893}
+
+
+[430] page_content='Extra Shift Can I play this card if I don't have enough money to cover the Wages? No you can't. Being able to cover the Wages is effectively a requirement for the card's effect to take place and you cannot perform actions that are optional if you cannot cover their cost/ requirement.' metadata={'start_index': 150330}
+
+
+[431] page_content='Healthcare Benefits Is the half price applied to each Health bought or to the total amount? The half price is applied to the total amount. For example, if Health is normally priced at 5 each, and you want to buy 5 Health, you would have to pay 13 (half of 25, rounded-up).' metadata={'start_index': 150617}
+
+
+[432] page_content='If Welfare State: Health & Benefits is in section B (meaning the cost of Health is already half of its maximum price), does the State player also gain 1 VP due to the Welfare tile? Yes, the State gains 1 VP because the starting Health price was 5, regardless of the final cost. The Legitimacy from the card is also provided as normal.' metadata={'start_index': 150892}
+
+
+[433] page_content='Health Crisis Can I sell more Health than what the State can store? Can I sell more than what the State can afford and thus force it to take a Loan? You cannot sell more resources to the State than what it can store, but, if it can store them, you can sell more than what it can afford. In such a case, as per normal rules, the State is forced to take a Loan.' metadata={'start_index': 151229}
+
+
+[434] page_content='Higher Education Program Can I sell more Education than what the State can store? Can I sell more than what the State can afford and thus force it to take a Loan? You cannot sell more resources to the State than what it can store, but, if it can store them, you can sell more than what it can afford. In such a case, as per normal rules, the State is forced to take a Loan.' metadata={'start_index': 151591}
+
+
+[435] page_content='CARD-RELATED QUESTIONS HEGEMONY: CARD RELATED QUESTIONS 37 Higher VAT Can I play this card if my Legitimacy scores are already at 1? No, you must have Legitimacy to lose, in order to play the card.' metadata={'start_index': 151967}
+
+
+[436] page_content='Immediate Response If I perform twice an Event Action that provides items to a Class, choosing the same Class both times, are the items placed in the State Benefits area from the first Event removed? No they aren't. Since the 2 Event actions are performed in the same turn, their benefits are placed in the State Benefits area at the same time.
+Labor Market Deregulation Can you reassign committed Workers with it? No, you can’t.' metadata={'start_index': 152166}
+
+
+[437] page_content='Labor Market Deregulation Can you reassign committed Workers with it? No, you can’t.
+If I play this card, move all my Workers from a Company and assign new ones to it, all in the same action, are the new Workers committed? No they aren't. Since the Company was operational before with non-committed Workers and continues to be operational, the change in the actual Workers should be treated like when you Swap Workers.' metadata={'start_index': 152513}
+
+
+[438] page_content='Migration If Ι play this card in the first round and end up with less than 10 Workers, what happens to my Population? It stays at 3.
+Need for Change Can I spend Influence for an Immediate Vote on those Bills? If so, do I need to spend 1 or 2 Influence?' metadata={'start_index': 152935}
+
+
+[439] page_content=' Each Bill is proposed independently of the other. You can spend Influence for an Immediate Vote, but each Bill requires its own Influence. Thus, to have an Immediate Vote on both bills, you‘ll need to spend 2 Influence. Note that, if you propose the first Bill and call for an Immediate Vote, you can wait until the end of the election process before choosing the second Bill to propose. However, you can't choose the same Policy for your second Bill, it has to be a different one' metadata={'start_index': 153190}
+
+
+[440] page_content='. However, you can't choose the same Policy for your second Bill, it has to be a different one. Privatization If I play this card and sell a Public Company, I’ll have one Company less than what Fiscal Policy dictates. What happens if the Fiscal Policy later changes again? How many Companies will I end up with? When the Fiscal Policy changes, you must end up with the number of Companies listed in the new section' metadata={'start_index': 153579}
+
+
+[441] page_content='. If, for example, Fiscal Policy was in section C when you played Privatization, you should then have 2 Companies. If Fiscal Policy later changes to B, you will have to end up with 6 Public Companies, as listed in the new section. This means, you will need to buy 4 more Companies, and not 3' metadata={'start_index': 153996}
+
+
+[442] page_content='. This means, you will need to buy 4 more Companies, and not 3. Similarly, if Fiscal Policy was in section B when you played the card, and you ended up with 5 Companies, if the Policy goes back to section C, you will only need to sell 2 Companies so that you can end up with 3, as dictated by the new section. If Fiscal Policy changes to section A, however, you will not be able to get to 9 Companies (one of the cards won’t be available any more) so you will only have 8 Companies at your disposal.' metadata={'start_index': 154225}
+
+
+[443] page_content='Can Ι use this card to sell a Company with committed Workers in it? Yes you can. In this case, even though the Company is “sold”, the Workers remain there and will get paid what they had agreed upon being assigned. The rule (about not being able to sell Companies with committed Workers in them) is there to prevent players from performing the Sell Company Action and causing the Workers in it to become Unemployed.' metadata={'start_index': 154725}
+
+
+[444] page_content='If I play this card and sell a Public Company to the Capitalist Class, can the Capitalist Class, later in the game, sell it? If so, what happens to the card? As long as there are no committed Workers in the Company, it can be sold as normal. The card is then returned face-down to the area of the board with the Public Companies. In this case, you will be able to use the Company again (turn it face-up) if Fiscal Policy changes again.' metadata={'start_index': 155143}
+
+
+[445] page_content='Public Opinion Polling Before I decide if there will be an Immediate Vote or not, do the other players have to state if they are in favor or against the proposed Bill? No. Since no voting is actually taking place yet, the other players don't have to reveal if they are in favor or against the proposed Bill. You must decide on your own if you want to go for an Immediate Vote, and only if you do, should the other players state their side, as per normal rules.' metadata={'start_index': 155581}
+
+
+[446] page_content='Push Political Agenda Can I spend Influence for an Immediate Vote on those Bills? If so, do I need to spend 1 or 2 Influence? Each Bill is proposed independently of the other. You can spend Influence for an Immediate Vote, but each Bill requires its own Influence. Thus, to have an Immediate Vote on both bills, you‘ll need to spend 2 Influence' metadata={'start_index': 156044}
+
+
+[447] page_content='. Thus, to have an Immediate Vote on both bills, you‘ll need to spend 2 Influence. Note that, if you propose the first Bill and call for an Immediate Vote, you can wait until the end of the election process before choosing the second Bill to propose. However, you can't choose the same Policy for your second Bill, it has to be a different one.' metadata={'start_index': 156309}
+
+
+[448] page_content='HEGEMONY: CARD RELATED QUESTIONS 38 Shift Focus What happens to the card I don’t choose? Is it discarded? The other card is returned back to the top of the Event deck. Similarly, if you don’t place any of the Events you looked at on the board, both cards are returned to the top of the Event deck.
+Do I have to perform the Event Action on the Event I just placed on the board? No. If you have 2 Events on the board, you can perform an Event Action on either of them.' metadata={'start_index': 156654}
+
+
+[449] page_content='If I play this card in the first round, what happens if any of the top 2 Events is for Rounds 2-5 only? Shuffle it back into the pile and draw a new Event in its place.
+State Scholarship Is the half price applied to each Education bought or to the total amount? The half price is applied to the total amount. For example, if Education is normally priced at 5 each, and the player playing the card wants to buy 5 Education, they would have to pay 13 (half of 25, rounded-up).' metadata={'start_index': 157125}
+
+
+[450] page_content='If Welfare State: Education is in section B (meaning the cost of Education is already half of its maximum price), does the State player also gain 1 VP due to the Welfare tile? Yes, the State gains 1 VP because the starting Education price was 5, regardless of the final cost. The Legitimacy from the card is also provided as normal' metadata={'start_index': 157603}
+
+
+[451] page_content='. The Legitimacy from the card is also provided as normal. Step for Representation When performing this Event, if I don’t have any Personal Influence, can I buy Media Influence from the Public Services, within the same Action (since I Provide them)? No, you can’t. Personal Influence and Media Influence are two different things. Your Campaign action converts one of them to the other, it doesn’t “buy” it. Media Influence should never be treated as Personal Influence (and the other way around).' metadata={'start_index': 157879}
+
+
+[452] page_content='Workplace Accident Where does the money that the Capitalist Class pay come from? The Revenue or the Capital area? Whenever the Capitalist Class spends money, unless stated otherwise, that money is taken from the Revenue area. If the money in the Revenue area is not enough, the remaining amount is taken from the Capital. Event Cards Some Event cards allow me as the State to buy resources from the other players' metadata={'start_index': 158379}
+
+
+[453] page_content='. Event Cards Some Event cards allow me as the State to buy resources from the other players. Can I buy more resources than I can store in my Storages (discarding them afterwards), to gain additional VP? No you can't. You are limited in what you can buy by your available Storages.' metadata={'start_index': 158701}
+
+
+[454] page_content='Civil Unrest When Ι propose a Bill of another player's choice due to this Event card, can that player decline? Also, can that player spend an Influence to call for an Immediate Vote? No. The way the card works is this: You choose another player and ask them which Bill to Propose (normal rules apply). That player must choose a Policy if able. You then propose that Bill, using your own marker' metadata={'start_index': 158985}
+
+
+[455] page_content='. That player must choose a Policy if able. You then propose that Bill, using your own marker. You are also the one who decides if an Immediate Vote will be called or not (spending your own Influence).' metadata={'start_index': 159287}
+
+
+[456] page_content='Infant Industry Requires Help When Ι build a Company using this Event card, who decides which Company is built? Can Workers be immediately assigned to it and if so who decides for that? You (the State) decide which Company to build among those available in the players' Markets. Afterwards, all decisions are made by the player owning the new Company (like if they will assign Workers to it and which ones)' metadata={'start_index': 159489}
+
+
+[457] page_content='. However, for a Middle Class Company to be built, it must have the required Middle Class Worker(s) in it. Thus, you can only build it if the required Worker(s) is/are available in the Unemployed Workers area and if so, the Worker(s) is/are then automatically assigned to that Company. What the Middle Class player can decide is only if they will assign a Working Class Worker in the new Company (assuming of course there is a slot in it) and which one.' metadata={'start_index': 159897}
+
+
+[458] page_content='Unfair Representation When performing this Event, if the State doesn’t have any Personal Influence, can it buy Media Influence from the Public Services, within the same Action (since it Provides it)? No, it can’t. Personal Influence and Media Influence are two different things. The State’s Campaign action converts one of them to the other, it doesn’t “buy” it. But Media Influence should never be treated as Personal Influence (and the other way around).' metadata={'start_index': 160351}
+
+
+[459] page_content='HEGEMONY: CONTENTS 39 Components 2 Symbols 3 Component Anatomy 4 Company Cards 4 Action Cards 4 Export Cards 5 Political Agenda Cards 5 Immigration Cards 5 Event Cards 5 Business Deal Cards 5 Storages 5 Game Board 6 Player Boards 7 Working Class 7 Middle Class 7 Capitalist Class 7 State 7 Game Setup 8 Main Board Setup 8 Player Setups 10 Working Class Setup 10 Middle Class Setup 10 Capitalist Class Setup 10 State Setup 10 How to Play - Main Rules 11 Preparation Phase 11 Action Phase 11' metadata={'start_index': 160810}
+
+
+[460] page_content='Class Setup 10 State Setup 10 How to Play - Main Rules 11 Preparation Phase 11 Action Phase 11 Production Phase 11 Elections Phase 12 Scoring Phase 13 Game End 13 Working Class 14 Overview 14 Preparation Phase 14 Action Phase 14 Production Phase 17 Scoring Phase 17 Game End 17 Capitalist Class 18 Overview 18 General Note: Revenue & Capital 18 Preparation Phase 18 Action Phase 18 Production Phase 20 Scoring Phase 21 Game End 21 Middle Class 22 Overview 22 Preparation Phase 22 Action Phase 22' metadata={'start_index': 161205}
+
+
+[461] page_content='20 Scoring Phase 21 Game End 21 Middle Class 22 Overview 22 Preparation Phase 22 Action Phase 22 Production Phase 25 Scoring Phase 25 Game End 25 State 26 Overview 26 General Notes 26 Preparation Phase 26 Action Phase 26 Production Phase 28 Elections Phase 28 Scoring Phase 28 Game End 29 Politics Table 30 Fiscal Policy 30 Labor Market 30 Taxation 30 Welfare State: Health & Benefits 31 Welfare State: Education 31 Foreign Trade 32 Immigration 32 Election Example 32 Other Rules 33 Loans 33 IMF' metadata={'start_index': 161604}
+
+
+[462] page_content='State: Education 31 Foreign Trade 32 Immigration 32 Election Example 32 Other Rules 33 Loans 33 IMF Intervention 33 Component Limitations 34 Credits 34 Rules Questions 35 Card Related Questions 36 Action Cards 36 Event Cards 38 CONTENTS' metadata={'start_index': 162000}
+

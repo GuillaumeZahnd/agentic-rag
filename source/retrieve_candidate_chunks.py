@@ -23,19 +23,19 @@ async def retrieve_candidate_chunks(
 
     if isinstance(query, str):
         return single_query_retrival(
-                query=query,
-                vector_database=vector_database,
-                top_k_chunks=top_k_chunks)
+            query=query,
+            vector_database=vector_database,
+            top_k_chunks=top_k_chunks)
 
     elif isinstance(query, list):
         return await multi_query_retrieval(
-                queries=query,
-                vector_database=vector_database,
-                top_k_chunks=top_k_chunks)
+            queries=query,
+            vector_database=vector_database,
+            top_k_chunks=top_k_chunks)
 
     else:
         raise TypeError(
-                "Input 'query' must be either of type str or list[str], but {} was received instead.".format(type(query).__name__))
+            "Input 'query' must be either of type str or list[str], but {} was received instead.".format(type(query).__name__))
 
 
 @sync_timer

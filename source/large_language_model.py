@@ -3,8 +3,12 @@ import json
 import ast
 from langchain_mistralai import ChatMistralAI
 from langchain.messages import AIMessage
+from langchain_core.documents import Document
+from typing import Tuple
+from langchain_core.messages import HumanMessage
 
 from source.timer import sync_timer
+from source.log_llm_query_answering import log_llm_query_answering
 
 
 class LargeLanguageModel():
@@ -14,18 +18,39 @@ class LargeLanguageModel():
         os.environ.get("MISTRAL_API_KEY")
 
         model_name = "magistral-medium-2506"
+        max_output_tokens = 8192
 
         self.language_model = ChatMistralAI(
             model=model_name,
             temperature=temperature,
-            max_retries=0)
+            max_retries=0,
+            max_tokens=max_output_tokens)
 
 
     @sync_timer
-    def get_answer_from_query(self, query: str, context: str) -> str:
+    def get_answer_from_query(self, query: str, chunks: list[Tuple[Document, float]]) -> str:
+
+        context = "\n\n".join([chunk["chunk"].page_content for chunk in chunks])
+
         prompt = _build_answering_prompt(query=query, context=context)
-        raw_answer = self.language_model.invoke(prompt)
+        messages_for_llm = [HumanMessage(content=prompt)]
+
+        USE_STREAMING=False
+        if USE_STREAMING:
+            stream_generator = self.language_model.stream(messages_for_llm)
+            raw_answer = ""
+            for chunk in stream_generator:
+                content = chunk.content
+                if content:
+                    raw_answer += str(content)
+        else:
+            raw_answer = self.language_model.invoke(messages_for_llm)
+            raw_answer = raw_answer.content
+
         answer = _get_answer_from_raw_llm_output(raw_output=raw_answer)
+
+        log_llm_query_answering(query=query, answer=answer, chunks=chunks, prompt=prompt, raw_answer=raw_answer)
+
         return answer
 
 
@@ -45,6 +70,7 @@ def _build_answering_prompt(query: str, context: str) -> str:
 
         Formatting:
         - You must respond with a single, clean JSON markdown block. DO NOT include any text, reasoning, conversation, or markdown before or after the JSON block.
+        - You must include the final answer in the field "answer".
         """
 
     prompt = f"""
@@ -57,8 +83,6 @@ def _build_answering_prompt(query: str, context: str) -> str:
 
 
 def _get_answer_from_raw_llm_output(raw_output: AIMessage) -> str:
-
-    raw_output = raw_output.content
 
     raw_output = str(raw_output)
 

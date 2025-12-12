@@ -3,11 +3,11 @@ from langchain_core.documents import Document
 
 
 def log_query_expansion(
-        query: str,
-        chunks: list[Document],
-        alternative_queries: list[str],
-        alternative_queries_raw: str,
-        prompt: str) -> str:
+    query: str,
+    chunks: list[Document],
+    alternative_queries: list[str],
+    alternative_queries_raw: str,
+    prompt: str) -> str:
 
     log_message = []
     log_message.append("# User query:\n")

@@ -2,7 +2,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 
 
-def divise_text_into_chunks(text: str, chunk_size: int, chunk_overlap: int):
+def divise_text_into_chunks(text: str, chunk_size: int, chunk_overlap: int) -> list[Document]:
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,

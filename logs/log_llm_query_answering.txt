@@ -1,0 +1,109 @@
+# User query:
+
+how does the working class score victory points (VPs)?
+----------------------------------------------------------------
+# Answer:
+
+The Working Class scores victory points (VPs) through increasing their Prosperity by providing Health, Education, or Luxury to its people, establishing Trade Unions in Industries where many of its Workers are employed, having Socialist Policies in the Politics Table (section A), and having money remaining on their board at the end of the game (1 VP for every 10 remaining, up to 15 VP).
+----------------------------------------------------------------
+# Reranked chunks:
+
+[0] Score: 1.0728390216827393
+After applying those final points, the player with the highest score is the winner. In case of a tie, look at Policies 1-5 and count how many each player has in the section of their choice (section A for the Working Class, section B for the Middle Class, section C for the Capitalist Class and matching their Political Agenda card for the State). The player among those tied with the most Policies wins. If there is still a tie and the State is among the tied players, the State wins
+
+
+[1] Score: -0.7530795335769653
+. The Companies that have 2 Middle Class Workers in them are fully operational by default. The Companies that have a Working Class Worker slot (which is optional) must have such a Worker in them, to be fully operational. Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table
+
+
+[2] Score: -0.7629154324531555
+Prosperity: This track shows the Working Class’s Prosperity. Prosperity is increased when the Working Class provides Health, Education or Luxury to its people. The higher it is, the more VP the player gains.
+Trade Unions: The Working Class can establish Trade Unions in Industries where many of its Workers are employed. Having a Trade Union provides the player with Influence and additional VP.
+Income: This is where the Working Class keeps its money.
+
+
+[3] Score: -3.701754093170166
+Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table: • Gain 1 VP for every 10 remaining on your board (up to 15 VP).
+
+
+[4] Score: -3.8431224822998047
+Game End When the game ends, you get to score a few additional VP: • Gain 1 VP for every 2 / 3 / 3 / 3 /3 MEDIA in your Storages. • Gain 1 VP for every 30 remaining in the State Treasury.
+
+
+[5] Score: -4.459896087646484
+Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Neoliberal Policies (section C), you gain VP as shown in the following table: • Gain 1 VP for every 2 / 3 / 3 / 3 in your Storages (including those in the Free Trade Zone).
+You also lose 5 VP for each Loan you still have.
+
+
+[6] Score: -4.695191860198975
+Capital: Each round, after the Capitalist Class pays Wages and taxes, all the money remaining in the Revenue is moved to this area and the player gets VP based on the total amount there.
+
+
+[7] Score: -5.333451271057129
+• Gain 1 VP for every 15 remaining on your board. Example: It is Claire’s turn in the Pay Taxes step and she wants to calculate her Income Tax. Besides her own Companies, her Workers work in 2 Capitalist Class Companies and in 1 Public Company. Since the Labor Market Policy is at A and Taxation Policy is at C, she will have to pay 3x5 = 15 .
+
+
+[8] Score: -5.4991865158081055
+Check Loans The Capitalist Class gets a penalty of -5 VP for each Loan it has. The rest of the players are given a chance to pay off their Loans first. They do so by paying 55 for each Loan they have and discarding the Loan card afterwards. If they can’t afford to pay the full amount, they spend as much as they can in increments of 5 and then they lose 1 VP for every 5 they didn’t pay.
+
+
+[9] Score: -5.905787467956543
+You also lose 5 VP for each Loan you still have.
+Example: During the game’s 1st round, after paying taxes and transferring his Revenue to his Capital, Mike has 57 . Checking his Wealth table he sees that this amount corresponds to 3 VP. Since it is the first time he scores, the Wealth marker must move 3 times to reach that space, meaning he gets 9 more VP (3 for each space he moved it) for a total of 12 VP.
+
+
+----------------------------------------------------------------
+# Prompt:
+
+
+        
+        Your role:
+        - You are an expert Accurate Document Analyst and Knowledge Extractor.
+        - Your sole purpose is to provide precise, factual, and fully grounded answers.
+
+        Your task:
+        - Analyze the provided `query` and the `context` text.
+        - Generate a comprehensive, direct, and accurate answer to the query.
+        - Your entire answer must be sourced only from the content found within the `context` block.
+        - Do not use any outside knowledge, assumptions, or reasoning not explicitly supported by the `context` block.
+        - If the context does not contain the information necessary to answer the query, you must respond with: "I cannot find the answer to this question in the provided document."
+
+        Formatting:
+        - You must respond with a single, clean JSON markdown block. DO NOT include any text, reasoning, conversation, or markdown before or after the JSON block.
+        - You must include the final answer in the field "answer".
+        
+
+
+        User query: how does the working class score victory points (VPs)?
+
+
+        Context: After applying those final points, the player with the highest score is the winner. In case of a tie, look at Policies 1-5 and count how many each player has in the section of their choice (section A for the Working Class, section B for the Middle Class, section C for the Capitalist Class and matching their Political Agenda card for the State). The player among those tied with the most Policies wins. If there is still a tie and the State is among the tied players, the State wins
+
+. The Companies that have 2 Middle Class Workers in them are fully operational by default. The Companies that have a Working Class Worker slot (which is optional) must have such a Worker in them, to be fully operational. Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table
+
+Prosperity: This track shows the Working Class’s Prosperity. Prosperity is increased when the Working Class provides Health, Education or Luxury to its people. The higher it is, the more VP the player gains.
+Trade Unions: The Working Class can establish Trade Unions in Industries where many of its Workers are employed. Having a Trade Union provides the player with Influence and additional VP.
+Income: This is where the Working Class keeps its money.
+
+Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table: • Gain 1 VP for every 10 remaining on your board (up to 15 VP).
+
+Game End When the game ends, you get to score a few additional VP: • Gain 1 VP for every 2 / 3 / 3 / 3 /3 MEDIA in your Storages. • Gain 1 VP for every 30 remaining in the State Treasury.
+
+Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Neoliberal Policies (section C), you gain VP as shown in the following table: • Gain 1 VP for every 2 / 3 / 3 / 3 in your Storages (including those in the Free Trade Zone).
+You also lose 5 VP for each Loan you still have.
+
+Capital: Each round, after the Capitalist Class pays Wages and taxes, all the money remaining in the Revenue is moved to this area and the player gets VP based on the total amount there.
+
+• Gain 1 VP for every 15 remaining on your board. Example: It is Claire’s turn in the Pay Taxes step and she wants to calculate her Income Tax. Besides her own Companies, her Workers work in 2 Capitalist Class Companies and in 1 Public Company. Since the Labor Market Policy is at A and Taxation Policy is at C, she will have to pay 3x5 = 15 .
+
+Check Loans The Capitalist Class gets a penalty of -5 VP for each Loan it has. The rest of the players are given a chance to pay off their Loans first. They do so by paying 55 for each Loan they have and discarding the Loan card afterwards. If they can’t afford to pay the full amount, they spend as much as they can in increments of 5 and then they lose 1 VP for every 5 they didn’t pay.
+
+You also lose 5 VP for each Loan you still have.
+Example: During the game’s 1st round, after paying taxes and transferring his Revenue to his Capital, Mike has 57 . Checking his Wealth table he sees that this amount corresponds to 3 VP. Since it is the first time he scores, the Wealth marker must move 3 times to reach that space, meaning he gets 9 more VP (3 for each space he moved it) for a total of 12 VP.
+
+
+        
+----------------------------------------------------------------
+# Raw answer:
+
+[{'type': 'thinking', 'thinking': [{'type': 'text', 'text': 'Okay, the user is asking about how the working class scores victory points (VPs) in the game. Let\'s go through the context to find the relevant information.\n\nFirst, the context mentions several ways to score VPs for different classes. We need to focus on the parts that specifically mention the Working Class.\n\n1. **Prosperity**: The context states "Prosperity: This track shows the Working Class’s Prosperity. Prosperity is increased when the Working Class provides Health, Education or Luxury to its people. The higher it is, the more VP the player gains." This indicates that the Prosperity track is a source of VPs for the Working Class.\n\n2. **Trade Unions**: The context also mentions "Trade Unions: The Working Class can establish Trade Unions in Industries where many of its Workers are employed. Having a Trade Union provides the player with Influence and additional VP." This is another source of VPs for the Working Class.\n\n3. **Policies**: The context states "Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table." Since section A corresponds to the Working Class, this is another way the Working Class can score VPs.\n\n4. **Income**: Although Income is mentioned as "This is where the Working Class keeps its money," it doesn\'t explicitly state that it provides VPs. So, this might not be relevant to the query.\n\nNow, let\'s summarize the ways the Working Class scores VPs based on the context:\n\n- Through the Prosperity track.\n- Through Trade Unions.\n- Through Socialist Policies in the Politics Table.\n\nBut to be thorough, let\'s see if there are any other mentions of VPs for the Working Class. The context also mentions:\n\n- "Gain 1 VP for every 10 remaining on your board (up to 15 VP)." But it\'s not clear if this applies to the Working Class or another class. However, since this is mentioned right after the section about checking Policies 1-5 in the Politics Table, and the previous sentence was about Socialist Policies (section A), it\'s reasonable to assume this applies to the Working Class.\n\nSo, to summarize, the Working Class scores VPs through:\n1. The Prosperity track.\n2. Trade Unions.\n3. Socialist Policies in the Politics Table.\n4. Having money remaining on their board (1 VP for every 10 remaining, up to 15 VP).\n\nBut let\'s make sure we\'re not missing anything. The context also mentions:\n\n- "Gain 1 VP for every 2 / 3 / 3 / 3 /3 MEDIA in your Storages." But this seems to be related to another class (likely the Capitalist Class or State), as it\'s not specifically tied to the Working Class.\n\n- "Gain 1 VP for every 30 remaining in the State Treasury." This is clearly for the State, not the Working Class.\n\n- "Gain 1 VP for every 15 remaining on your board." This seems similar to the previous point about having money remaining on the board, but it\'s not clear if this is for the Working Class or another class. Given that the Working Class has an Income area where they keep money, it\'s possible this applies to them.\n\nBut looking back, the first mention of "Gain 1 VP for every 10 remaining on your board (up to 15 VP)" seems to be more directly tied to the Working Class because it follows the section on Socialist Policies (section A), which is for the Working Class.\n\nThe second mention of "Gain 1 VP for every 15 remaining on your board" is in a different section, possibly for another class. To avoid confusion, let\'s stick to the information clearly tied to the Working Class.\n\nSo, the Working Class scores VPs through:\n1. The Prosperity track.\n2. Trade Unions.\n3. Socialist Policies in the Politics Table.\n4. Having money remaining on their board (1 VP for every 10 remaining, up to 15 VP).\n\nBut to be precise, the context says "Gain 1 VP for every 10 remaining on your board (up to 15 VP)" right after talking about Socialist Policies (section A), which is for the Working Class. So this seems to apply to the Working Class.\n\nTherefore, the Working Class scores VPs through:\n1. The Prosperity track.\n2. Trade Unions.\n3. Socialist Policies in the Politics Table.\n4. Having money remaining on their board (1 VP for every 10 remaining, up to 15 VP).\n\nBut let\'s see if there\'s more. The context also mentions:\n\n"Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table: • Gain 1 VP for every 10 remaining on your board (up to 15 VP)."\n\nThis suggests that the VPs from money remaining on the board is tied to the number of Socialist Policies. But the table isn\'t provided in the context, so we can\'t specify the exact number of VPs from policies. However, the bullet point about gaining 1 VP for every 10 remaining on the board (up to 15 VP) seems to be a general rule for the Working Class at the end of the game.\n\nSo, to summarize, the Working Class scores VPs through:\n1. The Prosperity track.\n2. Trade Unions.\n3. Socialist Policies in the Politics Table.\n4. Having money remaining on their board (1 VP for every 10 remaining, up to 15 VP).\n\nBut to be safe, let\'s assume that the main ways are through Prosperity, Trade Unions, and Socialist Policies, and the money on the board is an additional end-game bonus.\n\nBut looking back at the context, the section on Socialist Policies (section A) is followed by "Gain 1 VP for every 10 remaining on your board (up to 15 VP)." So it seems that having money on the board is another way to score VPs.\n\nTherefore, the Working Class scores VPs through:\n1. The Prosperity track.\n2. Trade Unions.\n3. Socialist Policies in the Politics Table.\n4. Having money remaining on their board (1 VP for every 10 remaining, up to 15 VP).\n\nBut to be thorough, let\'s see if there are any other mentions. The context also says:\n\n"Game End When the game ends, you get to score a few additional VP: • Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table: • Gain 1 VP for every 10 remaining on your board (up to 15 VP)."\n\nThis suggests that at the end of the game, the Working Class gains VPs from Socialist Policies (section A) and from money remaining on their board.\n\nBut earlier, it mentions Prosperity and Trade Unions as sources of VPs during the game, not necessarily at the end. However, since the query is about how the Working Class scores VPs generally, not just at the end of the game, we should include all ways.\n\nSo, the Working Class scores VPs through:\n1. The Prosperity track.\n2. Trade Unions.\n3. Socialist Policies in the Politics Table.\n4. Having money remaining on their board (1 VP for every 10 remaining, up to 15 VP).\n\nBut let\'s see if the context specifies when these VPs are scored. The Prosperity and Trade Unions seem to be ongoing, while the policies and money on the board are scored at the end of the game.\n\nBut the query is about how the Working Class scores VPs, not when. So all these methods are valid.\n\nTherefore, the answer should list all these methods.\n\nBut to be precise, the context says "Prosperity is increased when the Working Class provides Health, Education or Luxury to its people. The higher it is, the more VP the player gains." So Prosperity gives VPs.\n\n"Having a Trade Union provides the player with Influence and additional VP." So Trade Unions give VPs.\n\n"Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table." So Socialist Policies give VPs.\n\n"Gain 1 VP for every 10 remaining on your board (up to 15 VP)." So money on the board gives VPs.\n\nTherefore, the Working Class scores VPs through:\n1. Increasing their Prosperity by providing Health, Education, or Luxury.\n2. Establishing Trade Unions in Industries.\n3. Having Socialist Policies in the Politics Table (section A).\n4. Having money remaining on their board at the end of the game (1 VP for every 10 remaining, up to 15 VP).\n\nBut the context doesn\'t specify how many VPs are gained from Prosperity or Trade Unions, only that they provide VPs. For the policies and money on the board, it gives specific rates.\n\nGiven that, perhaps the best answer is to list all the ways the Working Class can score VPs as described in the context.\n\nSo, the answer would be:\n\nThe Working Class scores victory points (VPs) through the following methods:\n1. Increasing their Prosperity by providing Health, Education, or Luxury to its people.\n2. Establishing Trade Unions in Industries where many of its Workers are employed.\n3. Having Socialist Policies in the Politics Table (section A).\n4. Having money remaining on their board at the end of the game (1 VP for every 10 remaining, up to 15 VP).\n\nBut let\'s check if there\'s any more information. The context also mentions:\n\n"Gain 1 VP for every 2 / 3 / 3 / 3 /3 MEDIA in your Storages." But this seems to be for another class, as it\'s not tied to the Working Class.\n\nSimilarly, "Gain 1 VP for every 30 remaining in the State Treasury." is for the State.\n\nAnd "Gain 1 VP for every 15 remaining on your board." seems to be for another class, perhaps the Capitalist Class, since it\'s mentioned in a section that starts with "Capital: Each round, after the Capitalist Class pays Wages and taxes, all the money remaining in the Revenue is moved to this area and the player gets VP based on the total amount there."\n\nSo, the "Gain 1 VP for every 15 remaining on your board" is likely for the Capitalist Class, not the Working Class.\n\nTherefore, the "Gain 1 VP for every 10 remaining on your board (up to 15 VP)" is the one that applies to the Working Class, as it\'s mentioned right after the section on Socialist Policies (section A), which is for the Working Class.\n\nThus, the Working Class scores VPs through:\n1. Prosperity (by providing Health, Education, or Luxury).\n2. Trade Unions.\n3. Socialist Policies in the Politics Table (section A).\n4. Money remaining on their board at the end of the game (1 VP for every 10 remaining, up to 15 VP).\n\nTherefore, the answer is:\n\nThe Working Class scores victory points (VPs) through increasing their Prosperity by providing Health, Education, or Luxury to its people, establishing Trade Unions in Industries where many of its Workers are employed, having Socialist Policies in the Politics Table (section A), and having money remaining on their board at the end of the game (1 VP for every 10 remaining, up to 15 VP).\n\nBut to keep it concise and directly from the context, perhaps it\'s better to list the methods as described in the context.\n\nHere\'s the relevant text from the context:\n\n1. "Prosperity: This track shows the Working Class’s Prosperity. Prosperity is increased when the Working Class provides Health, Education or Luxury to its people. The higher it is, the more VP the player gains."\n2. "Trade Unions: The Working Class can establish Trade Unions in Industries where many of its Workers are employed. Having a Trade Union provides the player with Influence and additional VP."\n3. "Check Policies 1-5 in the Politics Table. Depending on the number of Socialist Policies (section A) you gain VP as shown in the following table."\n4. "Gain 1 VP for every 10 remaining on your board (up to 15 VP)."\n\nSo, the answer should include these four methods.\n\nNow, let\'s format this into a concise answer.'}]}, {'type': 'text', 'text': '```json\n{\n  "answer": "The Working Class scores victory points (VPs) through increasing their Prosperity by providing Health, Education, or Luxury to its people, establishing Trade Unions in Industries where many of its Workers are employed, having Socialist Policies in the Politics Table (section A), and having money remaining on their board at the end of the game (1 VP for every 10 remaining, up to 15 VP)."\n}\n```'}]
