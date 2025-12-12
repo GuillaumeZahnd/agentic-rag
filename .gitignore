@@ -1,3 +1,4 @@
 *.swp
+*.pdf
 models
 chroma_langchain_db
